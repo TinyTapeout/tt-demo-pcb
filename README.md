@@ -2,30 +2,33 @@
 
 ## Documentation
 
-## Proposed RP2040 IO table
+## RP2040 Pinout
 
-### Inputs
+| TT Pin    | RP2040 Pin | I2C      | SPI      | UART     |
+| --------- | ---------- | -------- | -------- | -------- |
+| ui_in[0]  | GPIO9      |          | SPI1.cs  |          |
+| ui_in[1]  | GPIO10     |          | SPI1.sck |          |
+| ui_in[2]  | GPIO11     |          | SPI1.tx  |          |
+| ui_in[3]  | GPIO12     |          |          | UART0.tx |
+| ui_in[4]  | GPIO17     |          | SPI0.cs  |          |
+| ui_in[5]  | GPIO18     |          | SPI0.sck |          |
+| ui_in[6]  | GPIO19     |          | SPI0.tx  |          |
+| ui_in[7]  | GPIO20     |          |          |          |
+| uo_out[0] | GPIO3 \*   |          |          |          |
+| uo_out[1] | GPIO4 \*   |          |          |          |
+| uo_out[2] | GPIO7 \*   |          |          |          |
+| uo_out[3] | GPIO8 \*   |          | SPI1.rx  |          |
+| uo_out[4] | GPIO13     |          |          | UART0.rx |
+| uo_out[5] | GPIO14     |          |          |          |
+| uo_out[6] | GPIO15     |          |          |          |
+| uo_out[7] | GPIO16     |          | SPI0.rx  |          |
+| uio[0]    | GPIO21     |          |          |          |
+| uio[1]    | GPIO22     | I2C1.scl |          |          |
+| uio[2]    | GPIO23     | I2C1.sda |          |          |
+| uio[3]    | GPIO24     |          |          |          |
+| uio[4]    | GPIO25     |          |          |          |
+| uio[5]    | GPIO26     |          |          |          |
+| uio[6]    | GPIO27     |          |          |          |
+| uio[7]    | GPIO28     |          |          |          |
 
-| TTO Input | RP2040 GPIO | I2C      | SPI      | UART     | ADC  |
-| --------- | ----------- | -------- | -------- | -------- | ---- |
-| 0         | GPIO14      | I2C1.sda | SPI1.sck |          |      |
-| 1         | GPIO15      | I2C1.scl | SPI1.tx  |          |      |
-| 2         | GPIO16      | I2C0.sda | SPI0.rx  | UART0.tx |      |
-| 3         | GPIO17      | I2C0.scl | SPI0.rx  | UART0.rx |      |
-| 4         | GPIO18      | I2C1.sda | SPI0.sck |          |      |
-| 5         | GPIO19      | I2C1.scl | SPI0.tx  |          |      |
-| 6         | GPIO20      | I2C0.sda |          |          |      |
-| 7         | GPIO21      | I2C0.scl |          |          |      |
-
-### Outputs
-
-| TTO Output | RP2040 GPIO | I2C      | SPI      | UART     | ADC  |
-| ---------- | ----------- | -------- | -------- | -------- | ---- |
-| 0          | GPIO9       | I2C0.scl | SPI1.cs  | UART1.rx |      |
-| 1          | GPIO8       | I2C0.sda | SPI1.rx  | UART1.tx |      |
-| 2          | GPIO7       | I2C1.scl | SPI0.tx  |          |      |
-| 3          | GPIO6       | I2C1.sda | SPI0.sck |          |      |
-| 4          | GPIO22      |          |          |          |      |
-| 5          | GPIO26      | I2C1.sda |          |          | ADC0 |
-| 6          | GPIO27      | I2C1.scl |          |          | ADC1 |
-| 7          | GPIO28      |          |          |          | ADC2 |
+\* These pins are multiplexed. They are connected to the RP2040 when GPIO1 is high.
