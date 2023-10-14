@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TinyTapeout")(type "KiCad")(uri "${KIPRJMOD}/tinytapeout-kicad-libs/footprints/TinyTapeout.pretty")(options "")(descr ""))
+  (lib (name "RPi_Pico")(type "KiCad")(uri "${KIPRJMOD}/tinytapeout-kicad-libs/footprints/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+  (lib (name "Logos")(type "KiCad")(uri "${KIPRJMOD}/../caravel-breakout-pcb/Logos.pretty")(options "")(descr ""))
+)

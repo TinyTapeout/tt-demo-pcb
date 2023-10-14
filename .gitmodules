@@ -1,0 +1,3 @@
+[submodule "tinytapeout-kicad-libs"]
+	path = tinytapeout-kicad-libs
+	url = https://github.com/psychogenic/tinytapeout-kicad-libs.git
