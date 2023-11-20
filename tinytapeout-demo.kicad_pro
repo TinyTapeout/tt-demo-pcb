@@ -116,7 +116,7 @@
         "max_error": 0.005,
         "min_clearance": 0.0,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.25,
+        "min_copper_edge_clearance": 0.3,
         "min_hole_clearance": 0.19999999999999998,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.19999999999999998,
@@ -459,8 +459,8 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "clk",
-        "pcb_color": "rgb(255, 0, 16)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgb(194, 0, 194)",
         "track_width": 0.2,
         "via_diameter": 0.65,
         "via_drill": 0.3,
@@ -476,10 +476,27 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "config",
-        "pcb_color": "rgb(5, 114, 255)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgb(221, 133, 0)",
         "track_width": 0.2,
         "via_diameter": 0.65,
+        "via_drill": 0.3,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "iobidir",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgb(0, 194, 194)",
+        "track_width": 0.245,
+        "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
       },
@@ -493,10 +510,10 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "ioin",
-        "pcb_color": "rgb(255, 242, 19)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
-        "via_diameter": 0.65,
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgb(0, 194, 0)",
+        "track_width": 0.245,
+        "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
       },
@@ -510,16 +527,16 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "ioout",
-        "pcb_color": "rgb(79, 204, 33)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
-        "via_diameter": 0.65,
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgb(0, 132, 132)",
+        "track_width": 0.245,
+        "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
       },
       {
         "bus_width": 12,
-        "clearance": 0.22,
+        "clearance": 0.23,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -527,8 +544,8 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "pwr",
-        "pcb_color": "rgba(231, 76, 9, 0.749)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgb(132, 0, 0)",
         "track_width": 0.25,
         "via_diameter": 0.65,
         "via_drill": 0.3,
@@ -544,11 +561,28 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "pwrhi",
-        "pcb_color": "rgb(225, 35, 0)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgb(194, 0, 0)",
         "track_width": 0.3,
         "via_diameter": 0.8,
         "via_drill": 0.4,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.165,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.23,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "usbdiff",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgb(255, 153, 0)",
+        "track_width": 0.23,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
         "wire_width": 6
       }
     ],
@@ -561,10 +595,6 @@
       {
         "netclass": "pwr",
         "pattern": "GND"
-      },
-      {
-        "netclass": "pwr",
-        "pattern": "+1*"
       },
       {
         "netclass": "pwrhi",
@@ -584,19 +614,15 @@
       },
       {
         "netclass": "ioout",
-        "pattern": "out\\d+"
+        "pattern": ".*out\\d+"
       },
       {
         "netclass": "config",
-        "pattern": "scansel*"
+        "pattern": "ctrl_*"
       },
       {
         "netclass": "config",
-        "pattern": "sel\\d+"
-      },
-      {
-        "netclass": "config",
-        "pattern": "set_clk_div"
+        "pattern": "HK_*"
       },
       {
         "netclass": "pwrhi",
@@ -604,7 +630,15 @@
       },
       {
         "netclass": "pwr",
-        "pattern": "+3*"
+        "pattern": "+?V?"
+      },
+      {
+        "netclass": "iobidir",
+        "pattern": "uio\\d+"
+      },
+      {
+        "netclass": "usbdiff",
+        "pattern": "usb_d*"
       }
     ]
   },
