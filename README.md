@@ -1,6 +1,26 @@
 # TinyTapeout Demo Board
 
+Demo board for TinyTapeout 4 and beyond.
+
+![Demoboard PCB](https://raw.githubusercontent.com/TinyTapeout/tt-demo-pcb/main/doc/img/tt4-demoboard-preview.png)
+
+This demonstration PCB allows you to interact with [TinyTapeout](https://tinytapeout.com/) projects in 3 ways:
+
+  * directly, using the input DIP switches and 7-segment display;
+  * via breadboard or extension boards through PMODs; or
+  * by interacting through the on-board RP2040
+  
+This is a preliminary release: I'm having the PCBs fabbed and will be doing assembly, testing and tweaking.  Feedback and discussion are welcome on the [Discord #pcb channel](https://discord.gg/qZHPrPsmt6), specific issues should be posted here on github.
+
 ## Documentation
+
+The full schematic is available as a [PDF](https://raw.githubusercontent.com/TinyTapeout/tt-demo-pcb/main/doc/demoboard-prelim-v1-0-3.pdf) but the gist of it is:
+
+![Demoboard schematic](https://raw.githubusercontent.com/TinyTapeout/tt-demo-pcb/main/doc/img/tt4-schematic-preview.png)
+
+The RP2040 is responsible for selecting projects, using the [multiplexer](https://github.com/TinyTapeout/tt-multiplexer/blob/main/docs/INFO.md) and under most circumstances providing the clock for the projects. It may, thereafter, interact with the design via it's connections to the input, output and bidirectional pins.
+
+Another option is to use the various PMOD and pin headers to tie external circuitry to the design.  PMODs are provided in two varieties: straightforward I/O (where one PMOD is dedicated to each of in/out/bidir pins) and "standard" PMODs, that are mapped (mostly) according to specs to allow for SPI, I2C and UART extension boards to be plugged in (this assumes the project has been designed with this in mind, with I/O tasked accordingly). 
 
 ## RP2040 Pinout
 

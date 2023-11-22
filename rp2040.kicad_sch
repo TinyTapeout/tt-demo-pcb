@@ -6,8 +6,8 @@
 
   (title_block
     (title "RP2040 Basic Support")
-    (date "2023-10-12")
-    (rev "1.0.1")
+    (date "2023-11-22")
+    (rev "1.0.3")
     (company "Psychogenic Technologies")
     (comment 1 "(C) 2023 Pat Deegan")
   )
