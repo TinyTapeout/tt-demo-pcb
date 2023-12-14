@@ -1,4 +1,4 @@
-22643396658772744
+22645102506821287
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -89936,6 +89936,13 @@ PMOD host expanded GPIO hole angled socket strip THT 2x06 2.54mm double row
 12
 12
 TinyTapeout
+QFN-64-1EP_9x9mm_P0.5mm_EP7.65x7.65mm_REDUCEDPASTE
+QFN, 64 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_datasheet.pdf (page 415)), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+74
+65
+TinyTapeout
 SolderJumper-2_Bridged_Throughole1
 SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 1 copper strip, th for reassignment
 net tie solder jumper bridged
@@ -89943,15 +89950,15 @@ net tie solder jumper bridged
 4
 2
 TinyTapeout
-TT03_BREAKOUT_SMB
-Ailser PCB carrier, connectors on bottom, mounted as stack (all facing same direction)
+TT03_BREAKOUT_SMB_FACEDOWN
+Ailser PCB carrier, connectors on top, mounted face down
 
 0
 80
 80
 TinyTapeout
-TT03_BREAKOUT_SMB_FACEDOWN
-Ailser PCB carrier, connectors on top, mounted face down
+TT04_BREAKOUT_SMB
+Ailser PCB carrier, connectors on bottom, mounted as stack (all facing same direction)
 
 0
 80

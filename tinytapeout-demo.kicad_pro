@@ -56,7 +56,16 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "courtyards_overlap|114195001|129700001|4e7360fe-c934-44cf-9034-4f24d61b21d8|72af9cd0-f04a-4208-978a-e2a0c8e80da8",
+        "courtyards_overlap|121765001|129700001|4e7360fe-c934-44cf-9034-4f24d61b21d8|e043ed88-296f-4303-94f1-f01c7ba7934e",
+        "courtyards_overlap|137000001|129700001|d30fbfb6-b007-4b44-8634-4d83cb9beaab|e043ed88-296f-4303-94f1-f01c7ba7934e",
+        "courtyards_overlap|141369177|62316324|ce597d91-a78f-48c7-aec6-ddca1db1e698|ef545c28-3af1-4ec6-99d0-373f384d1c34",
+        "courtyards_overlap|142870001|62845296|549b04eb-bb0c-4cc6-90fa-3e89dba1b20a|ef545c28-3af1-4ec6-99d0-373f384d1c34",
+        "courtyards_overlap|76045001|129700001|250251f8-864f-4482-8774-fb27fe6e438f|615df68a-a043-469d-80e5-d3dcd6233d81",
+        "courtyards_overlap|91350001|129700001|615df68a-a043-469d-80e5-d3dcd6233d81|9573a02c-85a3-480c-a198-a6637cdcd717",
+        "courtyards_overlap|98905001|129700001|72af9cd0-f04a-4208-978a-e2a0c8e80da8|9573a02c-85a3-480c-a198-a6637cdcd717"
+      ],
       "meta": {
         "version": 2
       },
@@ -464,7 +473,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "clk",
-        "pcb_color": "rgb(194, 0, 194)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(194, 0, 194)",
         "track_width": 0.245,
         "via_diameter": 0.65,
@@ -481,7 +490,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "config",
-        "pcb_color": "rgb(221, 133, 0)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(221, 133, 0)",
         "track_width": 0.2,
         "via_diameter": 0.65,
@@ -498,7 +507,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "iobidir",
-        "pcb_color": "rgb(0, 194, 194)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(0, 194, 194)",
         "track_width": 0.245,
         "via_diameter": 0.62,
@@ -515,7 +524,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "ioin",
-        "pcb_color": "rgb(0, 194, 0)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(0, 194, 0)",
         "track_width": 0.245,
         "via_diameter": 0.62,
@@ -532,7 +541,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "ioout",
-        "pcb_color": "rgb(0, 132, 132)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(0, 132, 132)",
         "track_width": 0.245,
         "via_diameter": 0.62,
@@ -549,7 +558,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "pwr",
-        "pcb_color": "rgba(231, 76, 9, 0.749)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(132, 0, 0)",
         "track_width": 0.25,
         "via_diameter": 0.65,
@@ -566,7 +575,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "pwrhi",
-        "pcb_color": "rgb(225, 35, 0)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(194, 0, 0)",
         "track_width": 0.3,
         "via_diameter": 0.8,
@@ -583,7 +592,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "usbdiff",
-        "pcb_color": "rgb(255, 153, 0)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(255, 153, 0)",
         "track_width": 0.23,
         "via_diameter": 0.6,
@@ -644,6 +653,10 @@
       {
         "netclass": "usbdiff",
         "pattern": "usb_d*"
+      },
+      {
+        "netclass": "config",
+        "pattern": "~?ctrl_*"
       }
     ]
   },
