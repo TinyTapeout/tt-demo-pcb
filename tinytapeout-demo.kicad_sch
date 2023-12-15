@@ -7,7 +7,7 @@
   (title_block
     (title "TinyTapeout 4/5 Demo Board PRELIM")
     (date "2023-11-22")
-    (rev "1.0.3")
+    (rev "1.0.4")
     (company "Psychogenic Technologies")
     (comment 1 "(C) 2023 Pat Deegan")
   )
@@ -11080,6 +11080,10 @@
   (label "CC1" (at 144.78 40.64 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 78d7bbb7-a8d4-4e13-b305-ae9cf3a931b4)
+  )
+  (label "~{CRVRST}" (at 127 171.45 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 7a5489b4-4305-4297-b7bc-ea6cebdea322)
   )
 
   (global_label "out6" (shape input) (at 226.695 151.13 180) (fields_autoplaced)
