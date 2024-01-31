@@ -10,13 +10,13 @@ This demonstration PCB allows you to interact with [TinyTapeout](https://tinytap
   * via breadboard or extension boards through PMODs; or
   * by interacting through the on-board RP2040
   
-This is a preliminary release: I'm having the PCBs fabbed and will be doing assembly, testing and tweaking.  Feedback and discussion are welcome on the [Discord #pcb channel](https://discord.gg/qZHPrPsmt6), specific issues should be posted here on github.
+Alpha prototypes have been assembled and are in testing--looking pretty good!  Feedback and discussion are welcome on the [Discord #pcb channel](https://discord.gg/qZHPrPsmt6), specific issues should be posted here on github.
 
 ## Documentation
 
-The full schematic is available as a [PDF](https://raw.githubusercontent.com/TinyTapeout/tt-demo-pcb/main/doc/demoboard-prelim-v1-0-3.pdf) but the gist of it is:
+The full schematic is available as a [PDF](https://raw.githubusercontent.com/TinyTapeout/tt-demo-pcb/main/doc/demoboard-v1-0-5.pdf) but the gist of it is:
 
-![Demoboard schematic](https://raw.githubusercontent.com/TinyTapeout/tt-demo-pcb/main/doc/img/tt4-schematic-preview.png)
+![Demoboard schematic](https://raw.githubusercontent.com/TinyTapeout/tt-demo-pcb/main/doc/img/tt4-schematic-preview.jpg)
 
 The RP2040 is responsible for selecting projects, using the [multiplexer](https://github.com/TinyTapeout/tt-multiplexer/blob/main/docs/INFO.md) and under most circumstances providing the clock for the projects. It may, thereafter, interact with the design via it's connections to the input, output and bidirectional pins.
 
