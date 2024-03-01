@@ -3306,6 +3306,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7ed1775c-4c98-4d65-80dc-744a506ea92c)
   )
+  (text " in2 GPIO11, 1RTS\nout0 GPIO 5, 1RX \nin7 GPIO20, 1TX\nout1 GPIO6, 1CTS"
+    (at 162.56 78.74 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 9690a05e-a62e-43af-87c4-40e2f6dbb1fa)
+  )
   (text "Factory test\nmode: GND" (at 83.82 137.16 0)
     (effects (font (size 1 1)) (justify left bottom))
     (uuid c46e28aa-55e9-4a4a-be5e-849f45ac0eea)
