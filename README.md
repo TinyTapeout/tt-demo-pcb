@@ -14,7 +14,7 @@ Alpha prototypes have been assembled and are in testing--looking pretty good!  F
 
 ## Documentation
 
-The full schematic is available as a [PDF](https://raw.githubusercontent.com/TinyTapeout/tt-demo-pcb/main/doc/demoboard-v1-0-5.pdf) but the gist of it is:
+The full schematic is available as a [PDF](https://raw.githubusercontent.com/TinyTapeout/tt-demo-pcb/main/doc/demoboard-v1-1-0.pdf) but the gist of it is:
 
 ![Demoboard schematic](https://raw.githubusercontent.com/TinyTapeout/tt-demo-pcb/main/doc/img/tt4-schematic-preview.jpg)
 
