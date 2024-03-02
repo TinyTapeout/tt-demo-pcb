@@ -12,7 +12,14 @@ This demonstration PCB allows you to interact with [TinyTapeout](https://tinytap
   
 Alpha prototypes have been assembled and are in testing--looking pretty good!  Feedback and discussion are welcome on the [Discord #pcb channel](https://discord.gg/qZHPrPsmt6), specific issues should be posted here on github.
 
-## Documentation
+## Pinout Overview
+
+
+![Demoboard Pinout](https://raw.githubusercontent.com/TinyTapeout/tt-demo-pcb/main/doc/img/tt4-demoboard-pinout.jpg)
+
+
+
+## Schematic and Function
 
 The full schematic is available as a [PDF](https://raw.githubusercontent.com/TinyTapeout/tt-demo-pcb/main/doc/demoboard-v1-1-0.pdf) but the gist of it is:
 
