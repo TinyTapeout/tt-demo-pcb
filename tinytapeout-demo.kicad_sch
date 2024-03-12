@@ -37268,7 +37268,7 @@
 		)
 		(uuid "9524f622-5d92-4215-ad7b-7e7939e0df2a")
 	)
-	(text "TinyTapeout 4/5 Demo Board"
+	(text "Tiny Tapeout 4/5 Demo Board"
 		(exclude_from_sim no)
 		(at 168.91 17.78 0)
 		(effects
@@ -37699,7 +37699,7 @@
 		)
 		(uuid "cfbcb515-2e11-46c7-9dbf-58f6b0fa2cd4")
 	)
-	(text "E.g. if you wanted an SPI controlled\nperiphas part of your TT project, you \ncould configure it such that it uses:\nin[0] as select/~{cs}\nin[1] for clocking\nin[2] for tx/mosi\nand \nout[3] for rx/miso"
+	(text "E.g. if you wanted an SPI controlled\nperiph as part of your TT project, you \ncould configure it such that it uses:\nin[0] as select/~{cs}\nin[1] for clocking\nin[2] for tx/mosi\nand \nout[3] for rx/miso"
 		(exclude_from_sim no)
 		(at 198.755 182.245 0)
 		(effects
@@ -43693,7 +43693,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "0dce4419-fcd4-4cac-a61d-dc757f404f7c")
 		(property "Reference" "J6"
@@ -43749,6 +43749,33 @@
 			)
 		)
 		(property "MPN_ALT" "PPTC062LJBN-RC"
+			(at 132.08 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Characteristics" ""
+			(at 132.08 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Variant" ""
+			(at 132.08 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigikeyPN" ""
 			(at 132.08 251.46 0)
 			(effects
 				(font
@@ -45274,7 +45301,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "68R"
+		(property "Value" "510"
 			(at 271.78 212.344 90)
 			(effects
 				(font
@@ -45319,7 +45346,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0402FR-0768RL"
+		(property "MPN" "RC0402FR-07510RL"
 			(at 266.7 213.36 0)
 			(effects
 				(font
@@ -45328,7 +45355,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" "68R 0402"
+		(property "Characteristics" "510R 0402"
 			(at 266.7 213.36 0)
 			(effects
 				(font
@@ -45337,7 +45364,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN_ALT" "WR04X68R0FTL"
+		(property "MPN_ALT" "CR0402-FX-5100GLF"
 			(at 266.7 213.36 0)
 			(effects
 				(font
@@ -45857,7 +45884,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "LTST-C190YKT"
+		(property "MPN" "CSL1901YW1"
 			(at 226.06 215.9 0)
 			(effects
 				(font
@@ -45866,7 +45893,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN_ALT" "TLMY1000-GS15"
+		(property "MPN_ALT" "LY L29K-H1K2-26-Z"
 			(at 226.06 215.9 0)
 			(effects
 				(font
@@ -45875,7 +45902,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" "Yellow LED"
+		(property "Characteristics" "Yellow LED, Low 1.8 V Vf"
 			(at 226.06 215.9 0)
 			(effects
 				(font
@@ -46099,7 +46126,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "68R"
+		(property "Value" "510"
 			(at 271.78 204.724 90)
 			(effects
 				(font
@@ -46144,7 +46171,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0402FR-0768RL"
+		(property "MPN" "RC0402FR-07510RL"
 			(at 266.7 205.74 0)
 			(effects
 				(font
@@ -46153,7 +46180,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" "68R 0402"
+		(property "Characteristics" "510R 0402"
 			(at 266.7 205.74 0)
 			(effects
 				(font
@@ -46162,7 +46189,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN_ALT" "WR04X68R0FTL"
+		(property "MPN_ALT" "CR0402-FX-5100GLF"
 			(at 266.7 205.74 0)
 			(effects
 				(font
@@ -49829,15 +49856,6 @@
 				(hide yes)
 			)
 		)
-		(property "Part number" "830208220401"
-			(at 172.72 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "830208220401"
 			(at 172.72 213.36 0)
 			(effects
@@ -49847,7 +49865,34 @@
 				(hide yes)
 			)
 		)
-		(property "DigikeyPN" "1923-830208220401DKR-ND"
+		(property "MPN_ALT" "831056293"
+			(at 172.72 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigikeyPN" "1923-830208220401CT-ND"
+			(at 172.72 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Characteristics" "20MHz osc"
+			(at 172.72 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Variant" ""
 			(at 172.72 213.36 0)
 			(effects
 				(font
@@ -52222,7 +52267,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "68R"
+		(property "Value" "510"
 			(at 271.78 209.804 90)
 			(effects
 				(font
@@ -52267,7 +52312,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0402FR-0768RL"
+		(property "MPN" "RC0402FR-07510RL"
 			(at 266.7 210.82 0)
 			(effects
 				(font
@@ -52276,7 +52321,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" "68R 0402"
+		(property "Characteristics" "510R 0402"
 			(at 266.7 210.82 0)
 			(effects
 				(font
@@ -52285,7 +52330,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN_ALT" "WR04X68R0FTL"
+		(property "MPN_ALT" "CR0402-FX-5100GLF"
 			(at 266.7 210.82 0)
 			(effects
 				(font
@@ -52500,7 +52545,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "68R"
+		(property "Value" "510"
 			(at 271.78 202.184 90)
 			(effects
 				(font
@@ -52545,7 +52590,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0402FR-0768RL"
+		(property "MPN" "RC0402FR-07510RL"
 			(at 266.7 203.2 0)
 			(effects
 				(font
@@ -52554,7 +52599,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" "68R 0402"
+		(property "Characteristics" "510R 0402"
 			(at 266.7 203.2 0)
 			(effects
 				(font
@@ -52563,7 +52608,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN_ALT" "WR04X68R0FTL"
+		(property "MPN_ALT" "CR0402-FX-5100GLF"
 			(at 266.7 203.2 0)
 			(effects
 				(font
@@ -52662,7 +52707,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "6f1e87eb-ae95-4d7b-a762-417605dff717")
 		(property "Reference" "J3"
@@ -52718,6 +52763,33 @@
 			)
 		)
 		(property "MPN_ALT" "PPTC062LJBN-RC"
+			(at 40.64 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Characteristics" ""
+			(at 40.64 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Variant" ""
+			(at 40.64 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigikeyPN" ""
 			(at 40.64 251.46 0)
 			(effects
 				(font
@@ -53031,7 +53103,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "7323b46d-449b-44a1-b1ba-0a2aea7c6a8b")
 		(property "Reference" "J5"
@@ -53087,6 +53159,33 @@
 			)
 		)
 		(property "MPN_ALT" "PPTC062LJBN-RC"
+			(at 86.36 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Characteristics" ""
+			(at 86.36 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Variant" ""
+			(at 86.36 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigikeyPN" ""
 			(at 86.36 251.46 0)
 			(effects
 				(font
@@ -53324,7 +53423,7 @@
 				(hide yes)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "2.46mm"
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
 			(at 113.03 88.9 0)
 			(effects
 				(font
@@ -53344,7 +53443,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "GCT"
+		(property "MANUFACTURER" ""
 			(at 110.49 91.44 0)
 			(effects
 				(font
@@ -53971,7 +54070,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "68R"
+		(property "Value" "510"
 			(at 271.78 219.964 90)
 			(effects
 				(font
@@ -54016,7 +54115,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0402FR-0768RL"
+		(property "MPN" "RC0402FR-07510RL"
 			(at 266.7 220.98 0)
 			(effects
 				(font
@@ -54025,7 +54124,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" "68R 0402"
+		(property "Characteristics" "510R 0402"
 			(at 266.7 220.98 0)
 			(effects
 				(font
@@ -54034,7 +54133,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN_ALT" "WR04X68R0FTL"
+		(property "MPN_ALT" "CR0402-FX-5100GLF"
 			(at 266.7 220.98 0)
 			(effects
 				(font
@@ -57345,7 +57444,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "LTST-C190YKT"
+		(property "MPN" "CSL1901YW1"
 			(at 203.2 215.9 0)
 			(effects
 				(font
@@ -57354,7 +57453,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN_ALT" "TLMY1000-GS15"
+		(property "MPN_ALT" "LY L29K-H1K2-26-Z"
 			(at 203.2 215.9 0)
 			(effects
 				(font
@@ -57363,7 +57462,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" "Yellow LED"
+		(property "Characteristics" "Yellow LED, Low 1.8 V Vf"
 			(at 203.2 215.9 0)
 			(effects
 				(font
@@ -59423,7 +59522,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "68R"
+		(property "Value" "510"
 			(at 271.78 207.264 90)
 			(effects
 				(font
@@ -59468,7 +59567,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0402FR-0768RL"
+		(property "MPN" "RC0402FR-07510RL"
 			(at 266.7 208.28 0)
 			(effects
 				(font
@@ -59477,7 +59576,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" "68R 0402"
+		(property "Characteristics" "510R 0402"
 			(at 266.7 208.28 0)
 			(effects
 				(font
@@ -59486,7 +59585,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN_ALT" "WR04X68R0FTL"
+		(property "MPN_ALT" "CR0402-FX-5100GLF"
 			(at 266.7 208.28 0)
 			(effects
 				(font
@@ -60544,7 +60643,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "68R"
+		(property "Value" "510"
 			(at 271.78 214.884 90)
 			(effects
 				(font
@@ -60589,7 +60688,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0402FR-0768RL"
+		(property "MPN" "RC0402FR-07510RL"
 			(at 266.7 215.9 0)
 			(effects
 				(font
@@ -60598,7 +60697,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" "68R 0402"
+		(property "Characteristics" "510R 0402"
 			(at 266.7 215.9 0)
 			(effects
 				(font
@@ -60607,7 +60706,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN_ALT" "WR04X68R0FTL"
+		(property "MPN_ALT" "CR0402-FX-5100GLF"
 			(at 266.7 215.9 0)
 			(effects
 				(font
@@ -64134,7 +64233,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "LTST-C190YKT"
+		(property "MPN" "CSL1901YW1"
 			(at 210.82 215.9 0)
 			(effects
 				(font
@@ -64143,7 +64242,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN_ALT" "TLMY1000-GS15"
+		(property "MPN_ALT" "LY L29K-H1K2-26-Z"
 			(at 210.82 215.9 0)
 			(effects
 				(font
@@ -64152,7 +64251,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" "Yellow LED"
+		(property "Characteristics" "Yellow LED, Low 1.8 V Vf"
 			(at 210.82 215.9 0)
 			(effects
 				(font
@@ -64631,7 +64730,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "LTST-C190YKT"
+		(property "MPN" "CSL1901YW1"
 			(at 218.44 215.9 0)
 			(effects
 				(font
@@ -64640,7 +64739,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN_ALT" "TLMY1000-GS15"
+		(property "MPN_ALT" "LY L29K-H1K2-26-Z"
 			(at 218.44 215.9 0)
 			(effects
 				(font
@@ -64649,7 +64748,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" "Yellow LED"
+		(property "Characteristics" "Yellow LED, Low 1.8 V Vf"
 			(at 218.44 215.9 0)
 			(effects
 				(font
@@ -65625,7 +65724,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "68R"
+		(property "Value" "510"
 			(at 271.78 217.424 90)
 			(effects
 				(font
@@ -65670,7 +65769,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0402FR-0768RL"
+		(property "MPN" "RC0402FR-07510RL"
 			(at 266.7 218.44 0)
 			(effects
 				(font
@@ -65679,7 +65778,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" "68R 0402"
+		(property "Characteristics" "510R 0402"
 			(at 266.7 218.44 0)
 			(effects
 				(font
@@ -65688,7 +65787,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN_ALT" "WR04X68R0FTL"
+		(property "MPN_ALT" "CR0402-FX-5100GLF"
 			(at 266.7 218.44 0)
 			(effects
 				(font
@@ -66282,7 +66381,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "fe2d4d7c-d926-4c23-ab7b-60ff65d9ccee")
 		(property "Reference" "U7"
 			(at 116.84 196.85 0)
@@ -66347,7 +66446,25 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "FLASHED FOR CARAVEL"
+			(at 127 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Variant" ""
+			(at 127 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN_ALT" ""
 			(at 127 205.74 0)
 			(effects
 				(font

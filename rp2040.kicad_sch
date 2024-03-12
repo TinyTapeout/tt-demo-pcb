@@ -9301,7 +9301,25 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "RP2040 FLASH"
+			(at 50.8 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Variant" ""
+			(at 50.8 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN_ALT" ""
 			(at 50.8 180.34 0)
 			(effects
 				(font

@@ -721,7 +721,7 @@
       "idf": "",
       "netlist": "",
       "plot": "",
-      "pos_files": "",
+      "pos_files": "/tmp/",
       "specctra_dsn": "",
       "step": "tinytapeout-demo.step",
       "svg": "",
@@ -759,24 +759,108 @@
         },
         {
           "group_by": false,
+          "label": "Qty",
+          "name": "${QUANTITY}",
+          "show": true
+        },
+        {
+          "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
         },
         {
-          "group_by": false,
+          "group_by": true,
           "label": "Footprint",
           "name": "Footprint",
           "show": true
         },
         {
           "group_by": false,
-          "label": "Qty",
-          "name": "${QUANTITY}",
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Characteristics",
+          "name": "Characteristics",
           "show": true
         },
         {
-          "group_by": true,
+          "group_by": false,
+          "label": "DNP",
+          "name": "DNP",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "DigikeyPN",
+          "name": "DigikeyPN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Display Value",
+          "name": "Display Value",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "JLC",
+          "name": "JLC",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MANUFACTURER",
+          "name": "MANUFACTURER",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MAXIMUM_PACKAGE_HEIGHT",
+          "name": "MAXIMUM_PACKAGE_HEIGHT",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MPN",
+          "name": "MPN",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "MPN_ALT",
+          "name": "MPN_ALT",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Part number",
+          "name": "Part number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Status",
+          "name": "Status",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Variant",
+          "name": "Variant",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
           "label": "DNP",
           "name": "${DNP}",
           "show": true
@@ -784,7 +868,7 @@
       ],
       "filter_string": "",
       "group_symbols": true,
-      "name": "Grouped By Value",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
