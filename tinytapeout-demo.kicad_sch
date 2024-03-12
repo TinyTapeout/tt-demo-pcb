@@ -5,7 +5,7 @@
 	(uuid "20adca1d-43a1-4784-9682-8b7dd1c7d330")
 	(paper "A3")
 	(title_block
-		(title "TinyTapeout 4/5 Demo Board")
+		(title "Tiny Tapeout 4/5 Demo Board")
 		(date "2024-03-12")
 		(rev "1.1.1")
 		(company "Psychogenic Technologies")

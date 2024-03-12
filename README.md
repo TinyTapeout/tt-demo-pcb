@@ -21,7 +21,7 @@ Alpha prototypes have been assembled and are in testing--looking pretty good!  F
 
 ## Schematic and Function
 
-The full schematic is available as a [PDF](https://raw.githubusercontent.com/TinyTapeout/tt-demo-pcb/main/doc/demoboard-v1-1-0.pdf) but the gist of it is:
+The full schematic is available as a [PDF](https://raw.githubusercontent.com/TinyTapeout/tt-demo-pcb/main/doc/demoboard-v1-1-1.pdf) but the gist of it is:
 
 ![Demoboard schematic](https://raw.githubusercontent.com/TinyTapeout/tt-demo-pcb/main/doc/img/tt4-schematic-preview.jpg)
 
@@ -59,3 +59,8 @@ Another option is to use the various PMOD and pin headers to tie external circui
 | uio[7]    | GPIO28     |          |          |          |
 
 \* These pins are multiplexed. They are connected to the RP2040 when GPIO1 is high.
+
+## License
+
+* The PCB is licensed under the [Apache2 License](LICENSE)
+* The documentation is licensed under the [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
