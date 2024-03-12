@@ -6,8 +6,8 @@
 	(paper "A3")
 	(title_block
 		(title "TinyTapeout 4/5 Demo Board")
-		(date "2024-02-29")
-		(rev "1.1.0")
+		(date "2024-03-12")
+		(rev "1.1.1")
 		(company "Psychogenic Technologies")
 		(comment 1 "(C) 2023, 2024 Pat Deegan")
 	)
@@ -36019,7 +36019,7 @@
 			"AElFTkSuQmCC"
 		)
 	)
-	(text "mo"
+	(text "co"
 		(exclude_from_sim no)
 		(at 269.24 259.08 0)
 		(effects
@@ -36197,7 +36197,7 @@
 		)
 		(uuid "1bceeea3-f85a-4bce-8133-72840ac03a66")
 	)
-	(text "SPI Master/I2C"
+	(text "SPI Control/I2C"
 		(exclude_from_sim no)
 		(at 242.57 240.03 0)
 		(effects
@@ -36235,7 +36235,7 @@
 		)
 		(uuid "224eb934-1927-4315-b51a-7a9af885eea6")
 	)
-	(text "mo"
+	(text "co"
 		(exclude_from_sim no)
 		(at 177.8 259.08 0)
 		(effects
@@ -36722,7 +36722,7 @@
 		)
 		(uuid "5416a2c6-e003-4241-97c8-9edd83f4ad02")
 	)
-	(text "miso"
+	(text "cipo"
 		(exclude_from_sim no)
 		(at 220.726 256.286 0)
 		(effects
@@ -36917,7 +36917,7 @@
 	)
 	(text "Output PMOD"
 		(exclude_from_sim no)
-		(at 111.76 238.76 0)
+		(at 115.062 241.554 0)
 		(effects
 			(font
 				(size 2 2)
@@ -36963,7 +36963,7 @@
 		)
 		(uuid "70d78eb7-52db-4e8b-8daf-e9a43947f643")
 	)
-	(text "SPI Slave"
+	(text "SPI Periph"
 		(exclude_from_sim no)
 		(at 179.07 240.03 0)
 		(effects
@@ -37327,7 +37327,7 @@
 		)
 		(uuid "9d99e807-49a1-4518-ae11-fcee24f25640")
 	)
-	(text "mi"
+	(text "ci"
 		(exclude_from_sim no)
 		(at 269.24 256.54 0)
 		(effects
@@ -37618,7 +37618,7 @@
 		)
 		(uuid "c38d63ab-7097-4e11-93dd-18daf6d53d43")
 	)
-	(text "mi"
+	(text "ci"
 		(exclude_from_sim no)
 		(at 177.8 256.54 0)
 		(effects
@@ -37699,7 +37699,7 @@
 		)
 		(uuid "cfbcb515-2e11-46c7-9dbf-58f6b0fa2cd4")
 	)
-	(text "E.g. if you wanted an SPI controlled\nperiph as part of your TT project, you \ncould configure it such that it uses:\nin[0] as select/~{cs}\nin[1] for clocking\nin[2] for tx/mosi\nand \nout[3] for rx/miso"
+	(text "E.g. if you wanted an SPI controlled\nperiph as part of your TT project, you \ncould configure it such that it uses:\nin[0] as select/~{cs}\nin[1] for clocking\nin[2] for tx/copi\nand \nout[3] for rx/cipo"
 		(exclude_from_sim no)
 		(at 198.755 182.245 0)
 		(effects
@@ -37860,7 +37860,7 @@
 		)
 		(uuid "ef30b4d3-5567-40fa-b7c5-ddb4075ddc43")
 	)
-	(text "PMOD, specialized versions.  These PMODs    offer an array of options while attempting to keep to\nstandard digilent pinouts.  With \"SPI Slave\", the pmod controls the bus and the project responds.\nOn \"SPI Master\", the pmod is a peripheral device to the project.  The bidir/uart header is flexible.\n"
+	(text "PMOD, specialized versions.  These PMODs    offer an array of options while attempting to keep to\nstandard digilent pinouts.  With \"SPI Periph\", the pmod controls the bus and the project responds.\nOn \"SPI Control\", the pmod is a peripheral device to the project.  The bidir/uart header is flexible.\n"
 		(exclude_from_sim no)
 		(at 168.91 280.67 0)
 		(effects
@@ -37906,7 +37906,7 @@
 		)
 		(uuid "f2db6e62-cf90-4340-a048-66c4c51e0b29")
 	)
-	(text "mosi"
+	(text "copi"
 		(exclude_from_sim no)
 		(at 220.98 259.08 0)
 		(effects
