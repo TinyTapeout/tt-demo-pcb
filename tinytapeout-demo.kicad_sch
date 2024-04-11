@@ -6,8 +6,8 @@
 	(paper "A3")
 	(title_block
 		(title "Tiny Tapeout 4/5 Demo Board")
-		(date "2024-04-10")
-		(rev "1.1.2")
+		(date "2024-04-11")
+		(rev "1.2.0")
 		(company "Psychogenic Technologies")
 		(comment 1 "(C) 2023, 2024 Pat Deegan")
 	)
@@ -37410,7 +37410,7 @@
 		)
 		(uuid "b0267648-a851-487d-b183-0d27c367c9ba")
 	)
-	(text "TT Mux: neither reset, \nnor ena, by default"
+	(text "TT Mux: ena and ~{RST}, \nHIGH by default"
 		(exclude_from_sim no)
 		(at 337.566 225.044 0)
 		(effects
@@ -39260,7 +39260,7 @@
 	)
 	(global_label "out0"
 		(shape input)
-		(at 289.56 256.54 0)
+		(at 289.56 259.08 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -39270,7 +39270,7 @@
 		)
 		(uuid "45e3526e-cf6d-4088-a342-ec6b433f1351")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 296.7784 256.54 0)
+			(at 296.7784 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41657,7 +41657,7 @@
 	)
 	(global_label "out1"
 		(shape input)
-		(at 289.56 261.62 0)
+		(at 289.56 254 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -41667,7 +41667,7 @@
 		)
 		(uuid "c6ebc38e-735e-43bc-bce0-4a9b161f610c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 296.7784 261.62 0)
+			(at 296.7784 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41987,7 +41987,7 @@
 	)
 	(global_label "in7"
 		(shape output)
-		(at 289.56 259.08 0)
+		(at 289.56 256.54 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -41997,7 +41997,7 @@
 		)
 		(uuid "db210d12-9045-4a3a-9684-bafeb893b6ab")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 295.5085 259.08 0)
+			(at 295.5085 256.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42295,7 +42295,7 @@
 	)
 	(global_label "in2"
 		(shape output)
-		(at 289.56 254 0)
+		(at 289.56 261.62 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -42305,7 +42305,7 @@
 		)
 		(uuid "e740fea1-c501-4a40-8233-7358f0e213b2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 295.5085 254 0)
+			(at 295.5085 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
