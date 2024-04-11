@@ -43702,7 +43702,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0dce4419-fcd4-4cac-a61d-dc757f404f7c")
 		(property "Reference" "J6"
@@ -45758,7 +45758,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "27762d78-192e-42b7-a4c0-46b45a0682e1")
 		(property "Reference" "J14"
 			(at 276.86 266.9073 0)
@@ -45822,6 +45822,33 @@
 			)
 		)
 		(property "JLC" "C6147817"
+			(at 276.86 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Characteristics" ""
+			(at 276.86 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Variant" ""
+			(at 276.86 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigikeyPN" ""
 			(at 276.86 251.46 0)
 			(effects
 				(font
@@ -46860,7 +46887,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "32d26bf7-e9f3-425c-b3fb-31e2e6e0a1f8")
 		(property "Reference" "J13"
 			(at 185.42 266.9073 0)
@@ -53004,7 +53031,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f1e87eb-ae95-4d7b-a762-417605dff717")
 		(property "Reference" "J3"
@@ -53418,7 +53445,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7323b46d-449b-44a1-b1ba-0a2aea7c6a8b")
 		(property "Reference" "J5"
@@ -59551,7 +59578,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "b6fdded4-7977-4b5c-9a3d-444425cd1ce7")
 		(property "Reference" "J12"
 			(at 228.6 266.9073 0)
@@ -59615,6 +59642,33 @@
 			)
 		)
 		(property "JLC" "C6147817"
+			(at 228.6 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Characteristics" ""
+			(at 228.6 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Variant" ""
+			(at 228.6 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigikeyPN" ""
 			(at 228.6 251.46 0)
 			(effects
 				(font

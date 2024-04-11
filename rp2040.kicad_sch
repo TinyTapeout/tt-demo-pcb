@@ -6973,6 +6973,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN_ALT" "0402N6R0D500CT"
+			(at 55.88 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "95250c34-bf05-431a-bbb0-5bb97106c633")
 		)
