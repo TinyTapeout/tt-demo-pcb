@@ -10,7 +10,7 @@ This demonstration PCB allows you to interact with [TinyTapeout](https://tinytap
   * via breadboard or extension boards through PMODs; or
   * by interacting through the on-board RP2040
   
-Alpha prototypes have been assembled and are in testing--looking pretty good!  Feedback and discussion are welcome on the [Discord #pcb channel](https://discord.gg/qZHPrPsmt6), specific issues should be posted here on github.
+Beta prototypes have been assembled and are in testing--looking pretty good!  Feedback and discussion are welcome on the [Discord #pcb channel](https://discord.gg/qZHPrPsmt6), specific issues should be posted here on github.
 
 ## Pinout Overview
 
@@ -21,13 +21,31 @@ Alpha prototypes have been assembled and are in testing--looking pretty good!  F
 
 ## Schematic and Function
 
-The full schematic is available as a [PDF](https://raw.githubusercontent.com/TinyTapeout/tt-demo-pcb/main/doc/demoboard-v1-1-1.pdf) but the gist of it is:
+The full schematic is available as a [PDF](https://raw.githubusercontent.com/TinyTapeout/tt-demo-pcb/main/doc/demoboard-v1-2-0.pdf) but the gist of it is:
 
 ![Demoboard schematic](https://raw.githubusercontent.com/TinyTapeout/tt-demo-pcb/main/doc/img/tt4-schematic-preview.jpg)
 
 The RP2040 is responsible for selecting projects, using the [multiplexer](https://github.com/TinyTapeout/tt-multiplexer/blob/main/docs/INFO.md) and under most circumstances providing the clock for the projects. It may, thereafter, interact with the design via it's connections to the input, output and bidirectional pins.
 
 Another option is to use the various PMOD and pin headers to tie external circuitry to the design.  PMODs are provided in two varieties: straightforward I/O (where one PMOD is dedicated to each of in/out/bidir pins) and "standard" PMODs, that are mapped (mostly) according to specs to allow for SPI, I2C and UART extension boards to be plugged in (this assumes the project has been designed with this in mind, with I/O tasked accordingly). 
+
+## PMODs
+
+In addition with interfacing directly with projects via the RP2040, extensions and interaction with the ASIC is possible through two sets of [PMODs](https://digilent.com/reference/_media/reference/pmod/pmod-interface-specification-1_2_0.pdf) on the demo boards.
+
+The three on the bottom provide access to all the project I/O in a logical fashion, with inputs, bidirectional pins and outputs available on their own distinct headers.
+
+![IO PMODs](https://raw.githubusercontent.com/TinyTapeout/tt-demo-pcb/main/doc/img/pmods-io.png)
+
+This is nice and orderly and gives you access to all the pins, but extension boards will often need to span at least two, and sometimes three, distinct headers.
+
+In the hope of providing simpler support for interfacing peripheral modules, an additional set of PMODs pinouts were added on the left side of the PCB.  These provide various mixes of in, out and bidirectional pins that should allow a variety of uses
+
+![Mixed PMODs](https://raw.githubusercontent.com/TinyTapeout/tt-demo-pcb/main/doc/img/pmods-mixed.png)
+
+It is likely that not all the headers will actually be populated on delivered PCBs, but these are throughole components which makes stuffing them in after the fact relatively easy.
+
+Both sets of PMODs respect the digilent specification in terms of spacing, and are *host* side pinouts: modules connecting to these must be wired as PMOD peripherals, and can be powered via the supplied 3v3 rails.
 
 ## RP2040 Pinout
 
