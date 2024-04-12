@@ -719,7 +719,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "pcba/gerber/v1p2p0",
+      "plot": "pcba/gerber/v1p2p1",
       "pos_files": "/tmp/",
       "specctra_dsn": "",
       "step": "tinytapeout-demo.step",
@@ -742,7 +742,7 @@
     },
     "bom_presets": [],
     "bom_settings": {
-      "exclude_dnp": true,
+      "exclude_dnp": false,
       "fields_ordered": [
         {
           "group_by": false,
@@ -866,7 +866,7 @@
         }
       ],
       "filter_string": "",
-      "group_symbols": true,
+      "group_symbols": false,
       "name": "",
       "sort_asc": true,
       "sort_field": "Reference"

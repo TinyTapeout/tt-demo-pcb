@@ -2,7 +2,7 @@
 
 Demo board for TinyTapeout 4 and beyond.
 
-![Demoboard PCB](https://raw.githubusercontent.com/TinyTapeout/tt-demo-pcb/main/doc/img/tt4-demoboard-preview.png)
+![Demoboard PCB](https://raw.githubusercontent.com/TinyTapeout/tt-demo-pcb/main/doc/img/tt04-demoboard-render.jpg)
 
 This demonstration PCB allows you to interact with [TinyTapeout](https://tinytapeout.com/) projects in 3 ways:
 
@@ -11,6 +11,8 @@ This demonstration PCB allows you to interact with [TinyTapeout](https://tinytap
   * by interacting through the on-board RP2040
   
 Beta prototypes have been assembled and are in testing--looking pretty good!  Feedback and discussion are welcome on the [Discord #pcb channel](https://discord.gg/qZHPrPsmt6), specific issues should be posted here on github.
+
+![Demoboard PCB Proto1](https://raw.githubusercontent.com/TinyTapeout/tt-demo-pcb/main/doc/img/tt4-demoboard-preview.png)
 
 ## Pinout Overview
 
@@ -21,7 +23,7 @@ Beta prototypes have been assembled and are in testing--looking pretty good!  Fe
 
 ## Schematic and Function
 
-The full schematic is available as a [PDF](https://raw.githubusercontent.com/TinyTapeout/tt-demo-pcb/main/doc/demoboard-v1-2-0.pdf) but the gist of it is:
+The full schematic is available as a [PDF](https://raw.githubusercontent.com/TinyTapeout/tt-demo-pcb/main/doc/demoboard-v1-2-1.pdf) but the gist of it is:
 
 ![Demoboard schematic](https://raw.githubusercontent.com/TinyTapeout/tt-demo-pcb/main/doc/img/tt4-schematic-preview.jpg)
 

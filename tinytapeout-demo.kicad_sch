@@ -6,8 +6,8 @@
 	(paper "A3")
 	(title_block
 		(title "Tiny Tapeout 4/5 Demo Board")
-		(date "2024-04-11")
-		(rev "1.2.0")
+		(date "2024-04-12")
+		(rev "1.2.1")
 		(company "Psychogenic Technologies")
 		(comment 1 "(C) 2023, 2024 Pat Deegan")
 	)
@@ -44519,6 +44519,15 @@
 			)
 		)
 		(property "JLC" "C95177"
+			(at 218.44 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigikeyPN" ""
 			(at 218.44 209.55 0)
 			(effects
 				(font
