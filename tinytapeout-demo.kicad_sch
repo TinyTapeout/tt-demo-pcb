@@ -7,7 +7,7 @@
 	(title_block
 		(title "Tiny Tapeout 4/5 Demo Board")
 		(date "2024-04-12")
-		(rev "1.2.1")
+		(rev "1.2.2")
 		(company "Psychogenic Technologies")
 		(comment 1 "(C) 2023, 2024 Pat Deegan")
 	)
@@ -55702,7 +55702,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "89c3c092-2575-4e04-87b8-c3e20437de78")
 		(property "Reference" "J7"
 			(at 241.935 165.1 90)
@@ -55770,6 +55770,24 @@
 		)
 		(property "MPN_ALT" "GEC02SABN-M30"
 			(at 249.555 166.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Variant" ""
+			(at 249.555 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigikeyPN" ""
+			(at 249.555 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67146,7 +67164,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "fe2d4d7c-d926-4c23-ab7b-60ff65d9ccee")
 		(property "Reference" "U7"
 			(at 116.84 196.85 0)
