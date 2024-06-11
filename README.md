@@ -84,3 +84,4 @@ Both sets of PMODs respect the digilent specification in terms of spacing, and a
 
 * The PCB is licensed under the [Apache2 License](LICENSE)
 * The documentation is licensed under the [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+* OSHWA registration [CA000047](https://certification.oshwa.org/ca000047.html)
