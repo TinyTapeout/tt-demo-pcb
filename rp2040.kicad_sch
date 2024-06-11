@@ -5,11 +5,11 @@
 	(uuid "e51bfb35-e08d-4165-8625-c40f0ed9d061")
 	(paper "A4")
 	(title_block
-		(title "RP2040 Basic Support")
-		(date "2023-11-22")
-		(rev "1.0.3")
+		(title "Tiny Tapeout 4/5 Demo Board")
+		(date "2024-04-12")
+		(rev "1.2.2")
 		(company "Psychogenic Technologies")
-		(comment 1 "(C) 2023 Pat Deegan")
+		(comment 1 "(C) 2023, 2024 Pat Deegan")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x02"
@@ -5907,17 +5907,6 @@
 			(justify left bottom)
 		)
 		(uuid "7ed1775c-4c98-4d65-80dc-744a506ea92c")
-	)
-	(text " in2 GPIO11, 1RTS\nout0 GPIO 5, 1RX \nin7 GPIO20, 1TX\nout1 GPIO6, 1CTS"
-		(exclude_from_sim no)
-		(at 162.56 78.74 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9690a05e-a62e-43af-87c4-40e2f6dbb1fa")
 	)
 	(text "Factory test\nmode: GND"
 		(exclude_from_sim no)
