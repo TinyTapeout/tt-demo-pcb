@@ -721,7 +721,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "pcba/gerber/v1p2p3",
+      "plot": "pcba/gerber/v1p2p4",
       "pos_files": "/tmp/",
       "specctra_dsn": "",
       "step": "tinytapeout-demo.step",

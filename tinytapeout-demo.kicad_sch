@@ -10553,16 +10553,6 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 71.12) (xy 247.65 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "166387b4-6dc4-433d-a50b-a010d83e352f")
-	)
-	(wire
-		(pts
 			(xy 121.92 246.38) (xy 121.92 248.92)
 		)
 		(stroke
@@ -12852,7 +12842,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 83.82) (xy 241.3 83.82)
+			(xy 237.49 83.82) (xy 241.3 83.82)
 		)
 		(stroke
 			(width 0)
@@ -12910,6 +12900,16 @@
 			(type default)
 		)
 		(uuid "711fb94b-85aa-45f3-896b-74da9597de5f")
+	)
+	(wire
+		(pts
+			(xy 237.49 82.55) (xy 237.49 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71488ff8-b9ec-4c2a-9e18-aca9000e28fe")
 	)
 	(wire
 		(pts
@@ -14442,7 +14442,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 71.12) (xy 238.76 71.12)
+			(xy 231.14 71.12) (xy 247.65 71.12)
 		)
 		(stroke
 			(width 0)
@@ -16736,7 +16736,7 @@
 		(uuid f8c0f025-5082-4b56-a519-1a830ea255a2)
 	)
 	(image
-		(at 183.515 323.215)
+		(at 183.515 321.945)
 		(uuid "10b18559-22d1-4594-98ee-fe2698bf5f3c")
 		(data "iVBORw0KGgoAAAANSUhEUgAAAgIAAAC4CAIAAAAe6ROhAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4"
 			"nO3dZ0AURxsA4Hd37w6OztFBekdUBBuIgCKWaDR2o9GoscTeEk3U2Fvsir3H3lHsURFEsYEiKF2Q"
@@ -37717,9 +37717,9 @@
 		)
 		(uuid "a29fc30d-2253-49d6-b11d-094da65e2ce9")
 	)
-	(text "50mA hold, 150mA \ntrip in 100ms"
+	(text "50mA hold \nfuse removed"
 		(exclude_from_sim no)
-		(at 240.665 78.105 0)
+		(at 242.57 75.692 0)
 		(effects
 			(font
 				(size 0.8 0.8)
@@ -38423,28 +38423,6 @@
 			(justify left bottom)
 		)
 		(uuid "7a5489b4-4305-4297-b7bc-ea6cebdea322")
-	)
-	(label "1v8B"
-		(at 228.6 71.12 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a20ed3a1-2513-4aa1-8b76-f34290c11441")
-	)
-	(label "1v8B"
-		(at 233.68 83.82 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d8d906d6-8d4a-4185-ab17-8abbd173c12d")
 	)
 	(label "vfused"
 		(at 143.51 38.1 0)
@@ -47488,7 +47466,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 246.38 83.82 0)
 			(effects
 				(font
@@ -47525,6 +47503,33 @@
 			)
 		)
 		(property "Variant" ""
+			(at 246.38 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 246.38 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN_ALT" ""
+			(at 246.38 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigikeyPN" ""
 			(at 246.38 83.82 0)
 			(effects
 				(font
@@ -55576,6 +55581,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+1V8")
+		(at 237.49 82.55 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8619b6b1-afe5-49c6-9bc8-3bcca314dadd")
+		(property "Reference" "#PWR0124"
+			(at 237.49 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+1V8"
+			(at 237.49 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 237.49 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 237.49 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 237.49 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8b000d33-fc0b-47f2-ae09-6910ec99f739")
+		)
+		(instances
+			(project "tinytapeout-demo"
+				(path "/20adca1d-43a1-4784-9682-8b7dd1c7d330"
+					(reference "#PWR0124")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 124.46 167.64 0)
 		(mirror y)
@@ -62376,128 +62446,6 @@
 			(project "tinytapeout-demo"
 				(path "/20adca1d-43a1-4784-9682-8b7dd1c7d330"
 					(reference "R30")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:Polyfuse")
-		(at 242.57 71.12 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d068b6d1-7a48-49e4-aa88-f5fb1dd860f5")
-		(property "Reference" "F2"
-			(at 242.57 68.58 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "50mA"
-			(at 242.57 73.66 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Fuse:Fuse_0603_1608Metric"
-			(at 247.65 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 242.57 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 242.57 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "0ZCM0005FF2G"
-			(at 242.57 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN_ALT" "FEMTOSMDC005F-2"
-			(at 242.57 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Characteristics" "PTC Reset Fuse, 50mA Hold, 150mA trip, 0603"
-			(at 242.57 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Variant" ""
-			(at 242.57 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DigikeyPN" ""
-			(at 242.57 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLC" "C3760470"
-			(at 242.57 71.12 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "476af2c1-4e61-4422-b018-4c8e50669408")
-		)
-		(pin "2"
-			(uuid "28bc5d31-96ba-413d-b0c5-157c22fcad78")
-		)
-		(instances
-			(project "tinytapeout-demo"
-				(path "/20adca1d-43a1-4784-9682-8b7dd1c7d330"
-					(reference "F2")
 					(unit 1)
 				)
 			)
