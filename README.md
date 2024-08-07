@@ -80,6 +80,15 @@ Both sets of PMODs respect the digilent specification in terms of spacing, and a
 
 \* These pins are multiplexed. They are connected to the RP2040 when GPIO1 is high.
 
+## Removing the carrier board
+
+Be careful removing the carrier board, it's easy to bend the pins or hurt yourself.
+
+* Lever the carrier board up 1mm at a time by inserting a pen or other lever under the board and gently pressing,
+* Keep swapping sides, to evenly push the carrier board away from the demo baord.
+
+These [levers](pcb_extractor.stl) can be 3D printed and make it easier. This [video](https://discord.com/channels/1009193568256135208/1011201396659474432/1260876742730448907) shows them in use.
+
 ## License
 
 * The PCB is licensed under the [Apache2 License](LICENSE)
