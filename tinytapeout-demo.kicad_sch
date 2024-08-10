@@ -5,11 +5,11 @@
 	(uuid "20adca1d-43a1-4784-9682-8b7dd1c7d330")
 	(paper "A3")
 	(title_block
-		(title "Tiny Tapeout 4/5 Demo Board")
-		(date "2024-04-12")
-		(rev "1.2.2")
+		(title "Tiny Tapeout 06+ Demo Board")
+		(date "2024-08-10")
+		(rev "2.0.0")
 		(company "Psychogenic Technologies")
-		(comment 1 "(C) 2023, 2024 Pat Deegan")
+		(comment 1 "(C) 2024 Pat Deegan")
 	)
 	(lib_symbols
 		(symbol "Connector:TestPoint_Small"
@@ -16282,6 +16282,17 @@
 			(justify right bottom)
 		)
 		(uuid "153f1873-742d-438c-bcea-b5774f8966f7")
+	)
+	(text "USER-FACING CHANGES from TT04\n * top header (J9) shorter, pin changes\n * no demoboard MUX in the way of low out nibble\n * more comfortable input DIP (rocker or \n   piano, TBD)\n\nAll RP2040 pin mappings for I/O are the same.  \nAll PMOD connectors are the same.\nProject reset and ASIC MUX pins have moved, \nbut will be transparent for SDK users.\n\nMAJOR Changes from TT04\n * carrier board new size and pinout\n * analog terminations on DB, but interfacing\n   happens on carrier (though a jumper from\n   u.fl to ADC on RPIO29 pin top header)\n * no demoboard MUXing of RP2040 I/O\n * nothing caravel related (osc, flash, etc)\n"
+		(exclude_from_sim no)
+		(at 339.344 42.926 0)
+		(effects
+			(font
+				(size 1.75 1.75)
+			)
+			(justify left)
+		)
+		(uuid "15f08671-cd3e-4d17-a972-f79069a1b85a")
 	)
 	(text "DI"
 		(exclude_from_sim no)
