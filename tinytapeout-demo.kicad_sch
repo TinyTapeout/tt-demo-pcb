@@ -29927,7 +29927,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "2x6 female pin header 100mil"
 			(at 132.08 251.46 0)
 			(effects
 				(font
@@ -31604,7 +31604,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "2x6 female pin header 100mil"
 			(at 276.86 251.46 0)
 			(effects
 				(font
@@ -32840,7 +32840,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "2x6 female pin header 100mil"
 			(at 185.42 251.46 0)
 			(effects
 				(font
@@ -35318,7 +35318,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "33pF 0402"
 			(at 147.32 78.74 0)
 			(effects
 				(font
@@ -39100,7 +39100,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "2x6 female pin header 100mil"
 			(at 40.64 251.46 0)
 			(effects
 				(font
@@ -39357,7 +39357,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "2x6 female pin header 100mil"
 			(at 86.36 251.46 0)
 			(effects
 				(font
@@ -39953,7 +39953,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "33pF 0402"
 			(at 146.05 49.53 0)
 			(effects
 				(font
@@ -44306,7 +44306,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "33pF 0402"
 			(at 157.48 78.74 0)
 			(effects
 				(font
@@ -46518,7 +46518,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "2x6 female pin header 100mil"
 			(at 228.6 251.46 0)
 			(effects
 				(font
@@ -47500,7 +47500,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "FERRITE BEAD 120R 0603 "
 			(at 161.29 31.75 0)
 			(effects
 				(font
@@ -48100,7 +48100,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "33pF 0402"
 			(at 156.21 46.99 0)
 			(effects
 				(font
@@ -49929,6 +49929,15 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 100.33 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Characteristics" "1M 0603"
 			(at 100.33 81.28 0)
 			(effects
 				(font
