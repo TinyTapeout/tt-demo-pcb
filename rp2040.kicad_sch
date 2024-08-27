@@ -6953,15 +6953,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C541341"
-			(at 55.88 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN_ALT" "0402N6R0D500CT"
 			(at 55.88 109.22 0)
 			(effects
@@ -6981,6 +6972,15 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 55.88 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C541341"
 			(at 55.88 109.22 0)
 			(effects
 				(font
@@ -7125,24 +7125,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C471764"
-			(at 80.01 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
-			(at 80.01 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "RC0402FR-0710KL"
 			(at 80.01 167.64 0)
 			(effects
@@ -7180,6 +7162,15 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 80.01 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C471764"
 			(at 80.01 167.64 0)
 			(effects
 				(font
@@ -7285,15 +7276,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C100072"
-			(at 119.38 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MANUFACTURER" ""
 			(at 119.38 177.8 0)
 			(effects
@@ -7304,6 +7286,15 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 119.38 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C100072"
 			(at 119.38 177.8 0)
 			(effects
 				(font
@@ -7400,15 +7391,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C3227924"
-			(at 109.22 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Characteristics" ""
 			(at 109.22 91.44 0)
 			(effects
@@ -7446,6 +7428,15 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 109.22 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2040"
 			(at 109.22 91.44 0)
 			(effects
 				(font
@@ -7716,15 +7707,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C100072"
-			(at 119.38 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MANUFACTURER" ""
 			(at 119.38 167.64 0)
 			(effects
@@ -7735,6 +7717,15 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 119.38 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C100072"
 			(at 119.38 167.64 0)
 			(effects
 				(font
@@ -7972,15 +7963,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C100072"
-			(at 129.54 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MANUFACTURER" ""
 			(at 129.54 177.8 0)
 			(effects
@@ -7991,6 +7973,15 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 129.54 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C100072"
 			(at 129.54 177.8 0)
 			(effects
 				(font
@@ -8162,15 +8153,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C100072"
-			(at 157.48 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MANUFACTURER" ""
 			(at 157.48 175.26 0)
 			(effects
@@ -8181,6 +8163,15 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 157.48 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C100072"
 			(at 157.48 175.26 0)
 			(effects
 				(font
@@ -8259,15 +8250,6 @@
 				(hide yes)
 			)
 		)
-		(property "Part number" ""
-			(at 73.66 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "CR0402-FX-1001GLF"
 			(at 73.66 109.22 0)
 			(effects
@@ -8295,15 +8277,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C202394"
-			(at 73.66 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MANUFACTURER" ""
 			(at 73.66 109.22 0)
 			(effects
@@ -8314,6 +8287,15 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 73.66 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C202394"
 			(at 73.66 109.22 0)
 			(effects
 				(font
@@ -8392,24 +8374,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C471764"
-			(at 25.4 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
-			(at 25.4 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "RC0402FR-0710KL"
 			(at 25.4 170.18 0)
 			(effects
@@ -8447,6 +8411,15 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 25.4 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C471764"
 			(at 25.4 170.18 0)
 			(effects
 				(font
@@ -8582,15 +8555,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 20.32 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
 			(at 20.32 73.66 0)
 			(effects
 				(font
@@ -8877,15 +8841,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C471764"
-			(at 73.66 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MANUFACTURER" ""
 			(at 73.66 48.26 0)
 			(effects
@@ -8896,6 +8851,15 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 73.66 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C471764"
 			(at 73.66 48.26 0)
 			(effects
 				(font
@@ -9001,15 +8965,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C100072"
-			(at 129.54 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MANUFACTURER" ""
 			(at 129.54 167.64 0)
 			(effects
@@ -9020,6 +8975,15 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 129.54 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C100072"
 			(at 129.54 167.64 0)
 			(effects
 				(font
@@ -9191,15 +9155,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C100072"
-			(at 109.22 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MANUFACTURER" ""
 			(at 109.22 167.64 0)
 			(effects
@@ -9210,6 +9165,15 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 109.22 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C100072"
 			(at 109.22 167.64 0)
 			(effects
 				(font
@@ -9303,15 +9267,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C6098259"
-			(at 60.96 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN_ALT" "ABM8W-12.0000MHZ-8-D1X-T3"
 			(at 60.96 104.14 0)
 			(effects
@@ -9321,7 +9276,16 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" ""
+		(property "LCSC" "C5288803"
+			(at 60.96 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Characteristics" ""
 			(at 60.96 104.14 0)
 			(effects
 				(font
@@ -9330,7 +9294,7 @@
 				(hide yes)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+		(property "Variant" ""
 			(at 60.96 104.14 0)
 			(effects
 				(font
@@ -9439,15 +9403,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C5673"
-			(at 96.52 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MANUFACTURER" ""
 			(at 96.52 43.18 0)
 			(effects
@@ -9458,6 +9413,15 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 96.52 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5673"
 			(at 96.52 43.18 0)
 			(effects
 				(font
@@ -9560,15 +9524,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C541341"
-			(at 55.88 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MANUFACTURER" ""
 			(at 55.88 99.06 0)
 			(effects
@@ -9579,6 +9534,15 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 55.88 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C541341"
 			(at 55.88 99.06 0)
 			(effects
 				(font
@@ -9767,15 +9731,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C82344"
-			(at 50.8 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MANUFACTURER" ""
 			(at 50.8 180.34 0)
 			(effects
@@ -9786,6 +9741,15 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 50.8 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C82344"
 			(at 50.8 180.34 0)
 			(effects
 				(font
@@ -9906,15 +9870,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C5673"
-			(at 124.46 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MANUFACTURER" ""
 			(at 124.46 43.18 0)
 			(effects
@@ -9925,6 +9880,15 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 124.46 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5673"
 			(at 124.46 43.18 0)
 			(effects
 				(font
@@ -10003,24 +9967,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C471764"
-			(at 73.66 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
-			(at 73.66 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "RC0402FR-0710KL"
 			(at 73.66 167.64 0)
 			(effects
@@ -10058,6 +10004,15 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 73.66 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C471764"
 			(at 73.66 167.64 0)
 			(effects
 				(font
@@ -10163,15 +10118,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C100072"
-			(at 109.22 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MANUFACTURER" ""
 			(at 109.22 177.8 0)
 			(effects
@@ -10182,6 +10128,15 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 109.22 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C100072"
 			(at 109.22 177.8 0)
 			(effects
 				(font
@@ -10811,24 +10766,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C471764"
-			(at 86.36 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
-			(at 86.36 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "RC0402FR-0710KL"
 			(at 86.36 167.64 0)
 			(effects
@@ -10866,6 +10803,15 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 86.36 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C471764"
 			(at 86.36 167.64 0)
 			(effects
 				(font
@@ -10941,24 +10887,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C100072"
-			(at 57.15 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
-			(at 57.15 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "CL05A104KA5NNNC"
 			(at 57.15 167.64 0)
 			(effects
@@ -10996,6 +10924,15 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 57.15 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C100072"
 			(at 57.15 167.64 0)
 			(effects
 				(font
@@ -11140,24 +11077,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C471764"
-			(at 67.31 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
-			(at 67.31 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "RC0402FR-0710KL"
 			(at 67.31 167.64 0)
 			(effects
@@ -11195,6 +11114,15 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 67.31 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C471764"
 			(at 67.31 167.64 0)
 			(effects
 				(font
@@ -11300,15 +11228,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C100072"
-			(at 149.86 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MANUFACTURER" ""
 			(at 149.86 175.26 0)
 			(effects
@@ -11319,6 +11238,15 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 149.86 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C100072"
 			(at 149.86 175.26 0)
 			(effects
 				(font

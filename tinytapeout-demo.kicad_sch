@@ -28731,7 +28731,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C5673"
+		(property "LCSC" "C5673"
 			(at 40.64 104.14 0)
 			(effects
 				(font
@@ -29024,16 +29024,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C5673"
-			(at 203.2 269.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C5673"
 			(at 203.2 269.24 0)
 			(effects
 				(font
@@ -29362,16 +29353,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C5673"
-			(at 283.21 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C5673"
 			(at 283.21 66.04 0)
 			(effects
 				(font
@@ -29505,16 +29487,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C471764"
-			(at 45.72 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C471764"
 			(at 45.72 139.7 0)
 			(effects
 				(font
@@ -29768,16 +29741,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C5673"
-			(at 295.91 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C5673"
 			(at 295.91 66.04 0)
 			(effects
 				(font
@@ -29954,7 +29918,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C6147817"
+		(property "LCSC" "C6147817"
 			(at 132.08 251.46 0)
 			(effects
 				(font
@@ -30073,15 +30037,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 313.69 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
 			(at 313.69 203.2 0)
 			(effects
 				(font
@@ -30217,7 +30172,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C471764"
+		(property "LCSC" "C471764"
 			(at 176.53 175.26 0)
 			(effects
 				(font
@@ -30380,16 +30335,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C237493"
-			(at 203.2 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C237493"
 			(at 203.2 36.83 0)
 			(effects
 				(font
@@ -30513,15 +30459,6 @@
 				(hide yes)
 			)
 		)
-		(property "Part number" ""
-			(at 226.06 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "RC0402FR-07510RL"
 			(at 226.06 201.93 0)
 			(effects
@@ -30558,7 +30495,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C276273"
+		(property "LCSC" "C276273"
 			(at 226.06 201.93 0)
 			(effects
 				(font
@@ -30796,16 +30733,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C100072"
-			(at 55.88 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C100072"
 			(at 55.88 149.86 0)
 			(effects
 				(font
@@ -31128,15 +31056,6 @@
 				(hide yes)
 			)
 		)
-		(property "Part number" ""
-			(at 274.32 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "RC0402FR-07510RL"
 			(at 274.32 213.36 0)
 			(effects
@@ -31164,7 +31083,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C276273"
+		(property "LCSC" "C276273"
 			(at 274.32 213.36 0)
 			(effects
 				(font
@@ -31417,7 +31336,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C471764"
+		(property "LCSC" "C471764"
 			(at 125.73 185.42 0)
 			(effects
 				(font
@@ -31595,7 +31514,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C6147817"
+		(property "LCSC" "C6147817"
 			(at 276.86 251.46 0)
 			(effects
 				(font
@@ -31749,16 +31668,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C100072"
-			(at 149.86 269.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C100072"
 			(at 149.86 269.24 0)
 			(effects
 				(font
@@ -31948,15 +31858,6 @@
 				(hide yes)
 			)
 		)
-		(property "Part number" ""
-			(at 274.32 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "RC0402FR-07510RL"
 			(at 274.32 205.74 0)
 			(effects
@@ -31984,7 +31885,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C276273"
+		(property "LCSC" "C276273"
 			(at 274.32 205.74 0)
 			(effects
 				(font
@@ -32081,16 +31982,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C86816"
-			(at 229.87 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C86816"
 			(at 229.87 36.83 0)
 			(effects
 				(font
@@ -32239,7 +32131,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C471764"
+		(property "LCSC" "C471764"
 			(at 152.4 187.96 0)
 			(effects
 				(font
@@ -32682,16 +32574,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C962136"
-			(at 278.13 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C962136"
 			(at 278.13 66.04 0)
 			(effects
 				(font
@@ -32718,7 +32601,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN_ALT" "GRT188R61C106KE13J "
+		(property "MPN_ALT" "GRT188R61C106KE13J"
 			(at 278.13 66.04 0)
 			(effects
 				(font
@@ -32867,7 +32750,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C6147817"
+		(property "LCSC" "C6147817"
 			(at 185.42 251.46 0)
 			(effects
 				(font
@@ -33296,7 +33179,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C3294478"
+		(property "LCSC" "C3294478"
 			(at 284.48 38.1 0)
 			(effects
 				(font
@@ -33390,16 +33273,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C100072"
-			(at 198.12 269.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C100072"
 			(at 198.12 269.24 0)
 			(effects
 				(font
@@ -33955,16 +33829,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C100072"
-			(at 104.14 269.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C100072"
 			(at 104.14 269.24 0)
 			(effects
 				(font
@@ -34349,16 +34214,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C5673"
-			(at 248.92 271.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C5673"
 			(at 248.92 271.78 0)
 			(effects
 				(font
@@ -34556,16 +34412,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C202394"
-			(at 39.37 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C202394"
 			(at 39.37 58.42 0)
 			(effects
 				(font
@@ -34689,15 +34536,6 @@
 				(hide yes)
 			)
 		)
-		(property "Part number" ""
-			(at 215.9 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "RC0402FR-07510RL"
 			(at 215.9 205.74 0)
 			(effects
@@ -34725,7 +34563,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C276273"
+		(property "LCSC" "C276273"
 			(at 215.9 205.74 0)
 			(effects
 				(font
@@ -35128,7 +34966,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C327139"
+		(property "LCSC" "C327139"
 			(at 35.56 116.84 0)
 			(effects
 				(font
@@ -35336,7 +35174,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C107005"
+		(property "LCSC" "C107005"
 			(at 147.32 78.74 0)
 			(effects
 				(font
@@ -35433,16 +35271,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C202394"
-			(at 41.91 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C202394"
 			(at 41.91 55.88 0)
 			(effects
 				(font
@@ -35566,15 +35395,6 @@
 				(hide yes)
 			)
 		)
-		(property "Part number" ""
-			(at 50.8 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "CR0402-FX-1001GLF"
 			(at 50.8 144.78 0)
 			(effects
@@ -35602,7 +35422,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C202394"
+		(property "LCSC" "C202394"
 			(at 50.8 144.78 0)
 			(effects
 				(font
@@ -35717,7 +35537,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C3294478"
+		(property "LCSC" "C3294478"
 			(at 284.48 35.56 0)
 			(effects
 				(font
@@ -35900,7 +35720,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C5525525"
+		(property "LCSC" "C329185"
 			(at 43.18 187.96 0)
 			(effects
 				(font
@@ -35997,16 +35817,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C202394"
-			(at 29.21 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C202394"
 			(at 29.21 68.58 0)
 			(effects
 				(font
@@ -36353,7 +36164,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C3293170"
+		(property "LCSC" "C3293170"
 			(at 55.88 63.5 0)
 			(effects
 				(font
@@ -36601,7 +36412,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" " 7 SEGMENT COMMON CATHODE"
+		(property "Characteristics" "7 SEGMENT COMMON CATHODE"
 			(at 289.56 210.82 0)
 			(effects
 				(font
@@ -36610,7 +36421,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C6976938"
+		(property "LCSC" "C6976938"
 			(at 289.56 210.82 0)
 			(effects
 				(font
@@ -36629,6 +36440,15 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 289.56 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Variant" ""
 			(at 289.56 210.82 0)
 			(effects
 				(font
@@ -36756,7 +36576,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C471764"
+		(property "LCSC" "C471764"
 			(at 105.41 175.26 0)
 			(effects
 				(font
@@ -36853,16 +36673,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C202394"
-			(at 31.75 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C202394"
 			(at 31.75 66.04 0)
 			(effects
 				(font
@@ -37010,7 +36821,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C471764"
+		(property "LCSC" "C471764"
 			(at 166.37 180.34 0)
 			(effects
 				(font
@@ -37099,15 +36910,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 320.04 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
 			(at 320.04 203.2 0)
 			(effects
 				(font
@@ -37219,16 +37021,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C100072"
-			(at 58.42 269.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C100072"
 			(at 58.42 269.24 0)
 			(effects
 				(font
@@ -37614,16 +37407,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C5673"
-			(at 154.94 269.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C5673"
 			(at 154.94 269.24 0)
 			(effects
 				(font
@@ -38253,15 +38037,6 @@
 				(hide yes)
 			)
 		)
-		(property "Part number" ""
-			(at 274.32 210.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "RC0402FR-07510RL"
 			(at 274.32 210.82 0)
 			(effects
@@ -38289,7 +38064,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C276273"
+		(property "LCSC" "C276273"
 			(at 274.32 210.82 0)
 			(effects
 				(font
@@ -38386,15 +38161,6 @@
 				(hide yes)
 			)
 		)
-		(property "Part number" ""
-			(at 43.18 198.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "CR0402-FX-1001GLF"
 			(at 43.18 198.12 0)
 			(effects
@@ -38422,7 +38188,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C202394"
+		(property "LCSC" "C202394"
 			(at 43.18 198.12 0)
 			(effects
 				(font
@@ -38585,15 +38351,6 @@
 				(hide yes)
 			)
 		)
-		(property "Part number" ""
-			(at 274.32 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "RC0402FR-07510RL"
 			(at 274.32 203.2 0)
 			(effects
@@ -38621,7 +38378,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C276273"
+		(property "LCSC" "C276273"
 			(at 274.32 203.2 0)
 			(effects
 				(font
@@ -39127,7 +38884,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C6147817"
+		(property "LCSC" "C6147817"
 			(at 40.64 251.46 0)
 			(effects
 				(font
@@ -39384,7 +39141,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C6147817"
+		(property "LCSC" "C6147817"
 			(at 86.36 251.46 0)
 			(effects
 				(font
@@ -39706,16 +39463,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C202394"
-			(at 36.83 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C202394"
 			(at 36.83 60.96 0)
 			(effects
 				(font
@@ -39971,7 +39719,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C107005"
+		(property "LCSC" "C107005"
 			(at 146.05 49.53 0)
 			(effects
 				(font
@@ -40093,7 +39841,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C176944"
+		(property "LCSC" "C176944"
 			(at 205.74 73.66 0)
 			(effects
 				(font
@@ -40337,15 +40085,6 @@
 				(hide yes)
 			)
 		)
-		(property "Part number" ""
-			(at 274.32 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "RC0402FR-07510RL"
 			(at 274.32 220.98 0)
 			(effects
@@ -40373,7 +40112,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C276273"
+		(property "LCSC" "C276273"
 			(at 274.32 220.98 0)
 			(effects
 				(font
@@ -40600,16 +40339,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C100072"
-			(at 281.94 271.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C100072"
 			(at 281.94 271.78 0)
 			(effects
 				(font
@@ -41297,16 +41027,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C202394"
-			(at 46.99 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C202394"
 			(at 46.99 49.53 0)
 			(effects
 				(font
@@ -41675,7 +41396,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C471764"
+		(property "LCSC" "C471764"
 			(at 45.72 111.76 0)
 			(effects
 				(font
@@ -41796,7 +41517,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C471764"
+		(property "LCSC" "C471764"
 			(at 161.29 182.88 0)
 			(effects
 				(font
@@ -41960,16 +41681,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C5673"
-			(at 287.02 271.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C5673"
 			(at 287.02 271.78 0)
 			(effects
 				(font
@@ -42334,7 +42046,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C4271317"
+		(property "LCSC" "C4271317"
 			(at 60.96 111.76 0)
 			(effects
 				(font
@@ -42476,7 +42188,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C6961594"
+		(property "LCSC" "C6961594"
 			(at 152.4 78.74 0)
 			(effects
 				(font
@@ -42599,7 +42311,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C5673"
+		(property "LCSC" "C5673"
 			(at 218.44 73.66 0)
 			(effects
 				(font
@@ -42790,7 +42502,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C471764"
+		(property "LCSC" "C471764"
 			(at 381 198.12 0)
 			(effects
 				(font
@@ -42978,7 +42690,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C471764"
+		(property "LCSC" "C471764"
 			(at 115.57 180.34 0)
 			(effects
 				(font
@@ -43268,16 +42980,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C100072"
-			(at 299.72 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C100072"
 			(at 299.72 40.64 0)
 			(effects
 				(font
@@ -43427,7 +43130,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C5673"
+		(property "LCSC" "C5673"
 			(at 157.48 35.56 0)
 			(effects
 				(font
@@ -43655,16 +43358,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C202394"
-			(at 34.29 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C202394"
 			(at 34.29 63.5 0)
 			(effects
 				(font
@@ -43788,16 +43482,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C5673"
-			(at 109.22 269.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C5673"
 			(at 109.22 269.24 0)
 			(effects
 				(font
@@ -44181,7 +43866,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C4271317"
+		(property "LCSC" "C4271317"
 			(at 234.95 210.82 0)
 			(effects
 				(font
@@ -44324,7 +44009,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C107005"
+		(property "LCSC" "C107005"
 			(at 157.48 78.74 0)
 			(effects
 				(font
@@ -44551,16 +44236,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C72038"
-			(at 208.28 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C72038"
 			(at 208.28 214.63 0)
 			(effects
 				(font
@@ -44926,7 +44602,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C5525525"
+		(property "LCSC" "C329185"
 			(at 35.56 104.14 0)
 			(effects
 				(font
@@ -45113,7 +44789,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C471764"
+		(property "LCSC" "C471764"
 			(at 120.65 182.88 0)
 			(effects
 				(font
@@ -45238,7 +44914,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C471764"
+		(property "LCSC" "C471764"
 			(at 360.68 198.12 0)
 			(effects
 				(font
@@ -45334,16 +45010,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C237493"
-			(at 190.5 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C237493"
 			(at 190.5 73.66 0)
 			(effects
 				(font
@@ -45595,16 +45262,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C100072"
-			(at 299.72 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C100072"
 			(at 299.72 35.56 0)
 			(effects
 				(font
@@ -45838,7 +45496,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C2891732"
+		(property "LCSC" "C2891732"
 			(at 227.33 215.9 0)
 			(effects
 				(font
@@ -46310,7 +45968,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C471764"
+		(property "LCSC" "C471764"
 			(at 156.21 185.42 0)
 			(effects
 				(font
@@ -46509,7 +46167,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C6147817"
+		(property "LCSC" "C6147817"
 			(at 228.6 251.46 0)
 			(effects
 				(font
@@ -46687,7 +46345,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C5525525"
+		(property "LCSC" "C329185"
 			(at 45.72 149.86 0)
 			(effects
 				(font
@@ -46784,16 +46442,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C100072"
-			(at 243.84 271.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C100072"
 			(at 243.84 271.78 0)
 			(effects
 				(font
@@ -47047,15 +46696,6 @@
 				(hide yes)
 			)
 		)
-		(property "Part number" ""
-			(at 274.32 208.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "RC0402FR-07510RL"
 			(at 274.32 208.28 0)
 			(effects
@@ -47083,7 +46723,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C276273"
+		(property "LCSC" "C276273"
 			(at 274.32 208.28 0)
 			(effects
 				(font
@@ -47406,7 +47046,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C5673"
+		(property "LCSC" "C5673"
 			(at 166.37 35.56 0)
 			(effects
 				(font
@@ -47500,7 +47140,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" "FERRITE BEAD 120R 0603 "
+		(property "Characteristics" "FERRITE BEAD 120R 0603"
 			(at 161.29 31.75 0)
 			(effects
 				(font
@@ -47545,25 +47185,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C2649119"
-			(at 161.29 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" ""
-			(at 161.29 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+		(property "LCSC" "C2649119"
 			(at 161.29 31.75 0)
 			(effects
 				(font
@@ -47641,16 +47263,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C962136"
-			(at 290.83 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C962136"
 			(at 290.83 66.04 0)
 			(effects
 				(font
@@ -47677,7 +47290,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN_ALT" "GRT188R61C106KE13J "
+		(property "MPN_ALT" "GRT188R61C106KE13J"
 			(at 290.83 66.04 0)
 			(effects
 				(font
@@ -47848,16 +47461,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C138073"
-			(at 140.97 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C138073"
 			(at 140.97 48.26 0)
 			(effects
 				(font
@@ -48118,7 +47722,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C107005"
+		(property "LCSC" "C107005"
 			(at 156.21 46.99 0)
 			(effects
 				(font
@@ -48215,16 +47819,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C100072"
-			(at 240.03 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C100072"
 			(at 240.03 36.83 0)
 			(effects
 				(font
@@ -48348,15 +47943,6 @@
 				(hide yes)
 			)
 		)
-		(property "Part number" ""
-			(at 274.32 215.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "RC0402FR-07510RL"
 			(at 274.32 215.9 0)
 			(effects
@@ -48384,7 +47970,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C276273"
+		(property "LCSC" "C276273"
 			(at 274.32 215.9 0)
 			(effects
 				(font
@@ -48609,15 +48195,6 @@
 				(hide yes)
 			)
 		)
-		(property "Part number" ""
-			(at 217.17 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "TLV1117LV33DCYR"
 			(at 217.17 34.29 0)
 			(effects
@@ -48645,7 +48222,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C15578"
+		(property "LCSC" "C15578"
 			(at 217.17 34.29 0)
 			(effects
 				(font
@@ -48772,7 +48349,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C471764"
+		(property "LCSC" "C471764"
 			(at 355.6 210.82 0)
 			(effects
 				(font
@@ -48867,16 +48444,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C100072"
-			(at 302.26 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C100072"
 			(at 302.26 33.02 0)
 			(effects
 				(font
@@ -49130,16 +48698,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C1884490"
-			(at 137.16 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C1884490"
 			(at 137.16 38.1 0)
 			(effects
 				(font
@@ -49475,16 +49034,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" ""
-			(at 105.41 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" ""
 			(at 105.41 81.28 0)
 			(effects
 				(font
@@ -49759,16 +49309,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C202394"
-			(at 44.45 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C202394"
 			(at 44.45 53.34 0)
 			(effects
 				(font
@@ -49892,16 +49433,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C858907"
-			(at 100.33 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C858907"
 			(at 100.33 81.28 0)
 			(effects
 				(font
@@ -50334,15 +49866,6 @@
 				(hide yes)
 			)
 		)
-		(property "Part number" ""
-			(at 208.28 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "RC0402FR-071K2L"
 			(at 208.28 205.74 0)
 			(effects
@@ -50370,7 +49893,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C138040"
+		(property "LCSC" "C138040"
 			(at 208.28 205.74 0)
 			(effects
 				(font
@@ -50624,7 +50147,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C471764"
+		(property "LCSC" "C471764"
 			(at 129.54 187.96 0)
 			(effects
 				(font
@@ -50852,15 +50375,6 @@
 				(hide yes)
 			)
 		)
-		(property "Part number" ""
-			(at 326.39 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "DNP"
 			(at 326.39 203.2 0)
 			(effects
@@ -50988,7 +50502,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C471764"
+		(property "LCSC" "C471764"
 			(at 171.45 177.8 0)
 			(effects
 				(font
@@ -51084,16 +50598,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C138073"
-			(at 152.4 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C138073"
 			(at 152.4 48.26 0)
 			(effects
 				(font
@@ -51284,16 +50789,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C72038"
-			(at 215.9 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C72038"
 			(at 215.9 214.63 0)
 			(effects
 				(font
@@ -51442,7 +50938,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C471764"
+		(property "LCSC" "C471764"
 			(at 110.49 177.8 0)
 			(effects
 				(font
@@ -51604,16 +51100,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C72038"
-			(at 226.06 208.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C72038"
 			(at 226.06 208.28 0)
 			(effects
 				(font
@@ -51782,7 +51269,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C6961594"
+		(property "LCSC" "C6961594"
 			(at 162.56 78.74 0)
 			(effects
 				(font
@@ -52009,15 +51496,6 @@
 				(hide yes)
 			)
 		)
-		(property "Part number" ""
-			(at 332.74 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "DNP"
 			(at 332.74 203.2 0)
 			(effects
@@ -52122,16 +51600,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C471764"
-			(at 43.18 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C471764"
 			(at 43.18 177.8 0)
 			(effects
 				(font
@@ -52320,16 +51789,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C5673"
-			(at 63.5 269.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C5673"
 			(at 63.5 269.24 0)
 			(effects
 				(font
@@ -52462,15 +51922,6 @@
 				(hide yes)
 			)
 		)
-		(property "Part number" ""
-			(at 274.32 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "RC0402FR-07510RL"
 			(at 274.32 218.44 0)
 			(effects
@@ -52498,7 +51949,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C276273"
+		(property "LCSC" "C276273"
 			(at 274.32 218.44 0)
 			(effects
 				(font
@@ -52978,16 +52429,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C100072"
-			(at 231.14 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part number" ""
+		(property "LCSC" "C100072"
 			(at 231.14 73.66 0)
 			(effects
 				(font
@@ -53111,15 +52553,6 @@
 				(hide yes)
 			)
 		)
-		(property "Part number" ""
-			(at 223.52 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "RC0603JR-070RL"
 			(at 223.52 71.12 0)
 			(effects
@@ -53156,7 +52589,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C95177"
+		(property "LCSC" "C95177"
 			(at 223.52 71.12 0)
 			(effects
 				(font
