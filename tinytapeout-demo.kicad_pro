@@ -830,21 +830,15 @@
         },
         {
           "group_by": false,
+          "label": "LCSC",
+          "name": "LCSC",
+          "show": true
+        },
+        {
+          "group_by": false,
           "label": "MPN_ALT",
           "name": "MPN_ALT",
           "show": true
-        },
-        {
-          "group_by": false,
-          "label": "JLC",
-          "name": "JLC",
-          "show": true
-        },
-        {
-          "group_by": false,
-          "label": "Part number",
-          "name": "Part number",
-          "show": false
         },
         {
           "group_by": false,
@@ -869,12 +863,6 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": true
-        },
-        {
-          "group_by": false,
-          "label": "LCSC",
-          "name": "LCSC",
-          "show": false
         }
       ],
       "filter_string": "",
