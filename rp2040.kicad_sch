@@ -6971,6 +6971,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" ""
+			(at 55.88 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 55.88 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "95250c34-bf05-431a-bbb0-5bb97106c633")
 		)
@@ -7152,6 +7170,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" ""
+			(at 80.01 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 80.01 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6e5cc66f-8311-471b-952a-06901db9af57")
 		)
@@ -7258,6 +7294,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" ""
+			(at 119.38 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 119.38 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e8a4afc4-87ec-4241-94ac-8ba9cb21fe40")
 		)
@@ -7347,6 +7401,51 @@
 			)
 		)
 		(property "JLC" "C3227924"
+			(at 109.22 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Characteristics" ""
+			(at 109.22 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Variant" ""
+			(at 109.22 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN_ALT" ""
+			(at 109.22 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 109.22 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
 			(at 109.22 91.44 0)
 			(effects
 				(font
@@ -7626,6 +7725,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" ""
+			(at 119.38 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 119.38 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "229049fa-9ff5-4df3-bcb2-693f02628d89")
 		)
@@ -7864,6 +7981,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" ""
+			(at 129.54 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 129.54 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0ae72788-5694-4da6-8d90-1f946b54cc1f")
 		)
@@ -8036,6 +8171,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" ""
+			(at 157.48 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 157.48 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d4020424-5ad0-400f-b092-52f69bcc8328")
 		)
@@ -8151,6 +8304,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" ""
+			(at 73.66 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 73.66 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e7fef33b-ea9f-48b8-9992-600b7766fb87")
 		)
@@ -8258,6 +8429,24 @@
 			)
 		)
 		(property "MPN_ALT" "WR04X1002FTL"
+			(at 25.4 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 25.4 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
 			(at 25.4 170.18 0)
 			(effects
 				(font
@@ -8420,6 +8609,24 @@
 			)
 		)
 		(property "Status" ""
+			(at 20.32 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 20.32 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
 			(at 20.32 73.66 0)
 			(effects
 				(font
@@ -8679,6 +8886,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" ""
+			(at 73.66 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 73.66 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bcae042e-c417-4917-bb25-c9b2c53e9900")
 		)
@@ -8777,6 +9002,24 @@
 			)
 		)
 		(property "JLC" "C100072"
+			(at 129.54 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 129.54 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
 			(at 129.54 167.64 0)
 			(effects
 				(font
@@ -8957,6 +9200,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" ""
+			(at 109.22 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 109.22 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b62b5bcb-e54a-4834-b90e-55a38666a957")
 		)
@@ -9052,6 +9313,24 @@
 			)
 		)
 		(property "MPN_ALT" "ABM8W-12.0000MHZ-8-D1X-T3"
+			(at 60.96 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 60.96 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
 			(at 60.96 104.14 0)
 			(effects
 				(font
@@ -9169,6 +9448,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" ""
+			(at 96.52 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 96.52 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fdae9ddb-38f1-4ad1-b26c-ee08b996d17a")
 		)
@@ -9264,6 +9561,24 @@
 			)
 		)
 		(property "JLC" "C541341"
+			(at 55.88 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 55.88 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
 			(at 55.88 99.06 0)
 			(effects
 				(font
@@ -9461,6 +9776,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" ""
+			(at 50.8 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 50.8 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3410712d-f756-4e19-9dbb-f02fc4e77784")
 		)
@@ -9574,6 +9907,24 @@
 			)
 		)
 		(property "JLC" "C5673"
+			(at 124.46 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 124.46 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
 			(at 124.46 43.18 0)
 			(effects
 				(font
@@ -9697,6 +10048,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" ""
+			(at 73.66 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 73.66 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fcb8de9a-24de-4e7c-9a30-5c8d89cb687b")
 		)
@@ -9795,6 +10164,24 @@
 			)
 		)
 		(property "JLC" "C100072"
+			(at 109.22 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 109.22 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
 			(at 109.22 177.8 0)
 			(effects
 				(font
@@ -10064,6 +10451,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 20.32 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 20.32 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
 			(at 20.32 58.42 0)
 			(effects
 				(font
@@ -10451,6 +10856,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" ""
+			(at 86.36 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 86.36 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a93c5fc3-55a7-4cf4-812e-0e13e8987815")
 		)
@@ -10555,6 +10978,24 @@
 			)
 		)
 		(property "MPN_ALT" "GRM155R71E104KE14J"
+			(at 57.15 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 57.15 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
 			(at 57.15 167.64 0)
 			(effects
 				(font
@@ -10744,6 +11185,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" ""
+			(at 67.31 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 67.31 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "46b441f0-7aac-4a85-af70-836faa6ef205")
 		)
@@ -10842,6 +11301,24 @@
 			)
 		)
 		(property "JLC" "C100072"
+			(at 149.86 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 149.86 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
 			(at 149.86 175.26 0)
 			(effects
 				(font
