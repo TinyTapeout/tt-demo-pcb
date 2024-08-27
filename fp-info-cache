@@ -1,4 +1,4 @@
-24184917627660073
+24186728424825881
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -98211,6 +98211,13 @@ GPS LNA MODULE
 13
 psysnapeda
 SM05B-SRSS-TB
+1.0mm pitch/Disconnectable Insulation displacement connectors
+JST, SM05B-SRSS-TB
+0
+7
+7
+psysnapeda
+SM05B-SRSS-TB_SHORTSHIELD
 1.0mm pitch/Disconnectable Insulation displacement connectors
 JST, SM05B-SRSS-TB
 0
