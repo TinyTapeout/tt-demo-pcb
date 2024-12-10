@@ -8744,7 +8744,7 @@
 	)
 	(polyline
 		(pts
-			(xy 245.11 143.51) (xy 233.045 143.51)
+			(xy 242.2682 143.5466) (xy 233.045 143.51)
 		)
 		(stroke
 			(width 0.2)
@@ -10983,17 +10983,6 @@
 		)
 		(uuid "7540ca49-9f79-479e-97e2-4a5428fb9f8b")
 	)
-	(polyline
-		(pts
-			(xy 233.045 148.59) (xy 242.443 148.59)
-		)
-		(stroke
-			(width 0.2)
-			(type dot)
-			(color 255 0 255 1)
-		)
-		(uuid "7648592b-96a2-4b4f-b363-02db2d2c6dae")
-	)
 	(wire
 		(pts
 			(xy 76.2 261.62) (xy 78.74 261.62)
@@ -11517,6 +11506,17 @@
 			(type default)
 		)
 		(uuid "8eb78f20-f54b-43ba-abaa-8907076a99ed")
+	)
+	(polyline
+		(pts
+			(xy 238.7759 148.6079) (xy 232.2605 148.5713)
+		)
+		(stroke
+			(width 0.2)
+			(type dot)
+			(color 255 0 255 1)
+		)
+		(uuid "8ef68128-01b9-447d-a137-5bd4838a200f")
 	)
 	(wire
 		(pts
@@ -23164,7 +23164,7 @@
 	)
 	(text "DI"
 		(exclude_from_sim no)
-		(at 299.466 140.716 90)
+		(at 302.26 140.716 90)
 		(effects
 			(font
 				(size 0.8 0.8)
@@ -23308,7 +23308,7 @@
 	)
 	(text "DI"
 		(exclude_from_sim no)
-		(at 243.84 143.256 90)
+		(at 241.046 143.256 90)
 		(effects
 			(font
 				(size 0.8 0.8)
@@ -23392,7 +23392,7 @@
 	)
 	(text "SPI-SA"
 		(exclude_from_sim no)
-		(at 240.665 142.875 90)
+		(at 237.49 143.002 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23453,7 +23453,7 @@
 	)
 	(text "SPI-SB"
 		(exclude_from_sim no)
-		(at 303.276 139.954 90)
+		(at 304.038 138.938 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23524,7 +23524,7 @@
 	)
 	(text "DO"
 		(exclude_from_sim no)
-		(at 300.736 148.082 90)
+		(at 304.038 148.844 90)
 		(effects
 			(font
 				(size 0.8 0.8)
@@ -23632,7 +23632,7 @@
 	)
 	(text "SCK"
 		(exclude_from_sim no)
-		(at 299.466 143.764 90)
+		(at 302.26 143.764 90)
 		(effects
 			(font
 				(size 0.8 0.8)
@@ -23680,7 +23680,7 @@
 	)
 	(text "SCK"
 		(exclude_from_sim no)
-		(at 243.84 140.97 90)
+		(at 241.046 140.97 90)
 		(effects
 			(font
 				(size 0.8 0.8)
@@ -23833,7 +23833,7 @@
 	)
 	(text "CS"
 		(exclude_from_sim no)
-		(at 299.466 146.05 90)
+		(at 302.26 146.05 90)
 		(effects
 			(font
 				(size 0.8 0.8)
@@ -23906,7 +23906,7 @@
 	)
 	(text "RX"
 		(exclude_from_sim no)
-		(at 241.935 146.05 90)
+		(at 239.268 146.05 90)
 		(effects
 			(font
 				(size 0.8 0.8)
@@ -23974,6 +23974,17 @@
 			(justify right bottom)
 		)
 		(uuid "672bc63c-6858-4e28-8716-664e66a0b62d")
+	)
+	(text "Changed value for analog pull-downs \nto higher 1M, but for speed of PCBA \nhave DNPed for this run."
+		(exclude_from_sim no)
+		(at 155.194 168.91 0)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify left)
+		)
+		(uuid "67cf7e57-1901-4a01-bd9e-d4587224c81d")
 	)
 	(text "SPI-MB"
 		(exclude_from_sim no)
@@ -24582,7 +24593,7 @@
 	)
 	(text "CS"
 		(exclude_from_sim no)
-		(at 243.84 137.922 90)
+		(at 241.046 137.922 90)
 		(effects
 			(font
 				(size 0.8 0.8)
@@ -24698,7 +24709,7 @@
 	)
 	(text "TX"
 		(exclude_from_sim no)
-		(at 241.935 148.59 90)
+		(at 239.268 148.59 90)
 		(effects
 			(font
 				(size 0.8 0.8)
@@ -29976,7 +29987,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "613012243121"
+		(property "MPN" "PPTC062LJBN-RC"
 			(at 132.08 251.46 0)
 			(effects
 				(font
@@ -30203,7 +30214,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "0e2efb4a-b660-4f6a-8b92-a83eae34e26d")
 		(property "Reference" "R48"
 			(at 178.435 175.26 90)
@@ -30213,7 +30224,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1M"
 			(at 176.53 175.26 90)
 			(effects
 				(font
@@ -30248,7 +30259,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0402FR-0710KL"
+		(property "MPN" "CR0402-FX-1004GLF"
 			(at 176.53 175.26 0)
 			(effects
 				(font
@@ -30257,7 +30268,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" "10k 0402"
+		(property "Characteristics" "1M 0402"
 			(at 176.53 175.26 0)
 			(effects
 				(font
@@ -30266,7 +30277,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN_ALT" "WR04X1002FTL"
+		(property "MPN_ALT" "RC0402FR-071ML"
 			(at 176.53 175.26 0)
 			(effects
 				(font
@@ -30275,7 +30286,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C471764"
+		(property "LCSC" "C138033"
 			(at 176.53 175.26 0)
 			(effects
 				(font
@@ -31385,7 +31396,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "24d04bb7-f266-49cf-af54-0ac72eb54568")
 		(property "Reference" "R43"
 			(at 123.825 185.42 90)
@@ -31395,7 +31406,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1M"
 			(at 125.73 185.42 90)
 			(effects
 				(font
@@ -31430,7 +31441,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0402FR-0710KL"
+		(property "MPN" "CR0402-FX-1004GLF"
 			(at 125.73 185.42 0)
 			(effects
 				(font
@@ -31439,7 +31450,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" "10k 0402"
+		(property "Characteristics" "1M 0402"
 			(at 125.73 185.42 0)
 			(effects
 				(font
@@ -31448,7 +31459,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN_ALT" "WR04X1002FTL"
+		(property "MPN_ALT" "RC0402FR-071ML"
 			(at 125.73 185.42 0)
 			(effects
 				(font
@@ -31457,7 +31468,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C471764"
+		(property "LCSC" "C138033"
 			(at 125.73 185.42 0)
 			(effects
 				(font
@@ -31617,7 +31628,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "613012243121"
+		(property "MPN" "PPTC062LJBN-RC"
 			(at 276.86 251.46 0)
 			(effects
 				(font
@@ -32179,7 +32190,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "2c197919-450d-4b31-9180-054a196065f4")
 		(property "Reference" "R55"
@@ -32190,7 +32201,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1M"
 			(at 152.4 187.96 90)
 			(effects
 				(font
@@ -32225,7 +32236,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0402FR-0710KL"
+		(property "MPN" "CR0402-FX-1004GLF"
 			(at 152.4 187.96 0)
 			(effects
 				(font
@@ -32234,7 +32245,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" "10k 0402"
+		(property "Characteristics" "1M 0402"
 			(at 152.4 187.96 0)
 			(effects
 				(font
@@ -32243,7 +32254,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN_ALT" "WR04X1002FTL"
+		(property "MPN_ALT" "RC0402FR-071ML"
 			(at 152.4 187.96 0)
 			(effects
 				(font
@@ -32252,7 +32263,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C471764"
+		(property "LCSC" "C138033"
 			(at 152.4 187.96 0)
 			(effects
 				(font
@@ -32826,7 +32837,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "613012243121"
+		(property "MPN" "PPTC062LJBN-RC"
 			(at 185.42 251.46 0)
 			(effects
 				(font
@@ -36661,7 +36672,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "60382d02-3efa-4832-9f54-f4fec237531f")
 		(property "Reference" "R47"
 			(at 103.505 175.26 90)
@@ -36671,7 +36682,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1M"
 			(at 105.41 175.26 90)
 			(effects
 				(font
@@ -36706,7 +36717,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0402FR-0710KL"
+		(property "MPN" "CR0402-FX-1004GLF"
 			(at 105.41 175.26 0)
 			(effects
 				(font
@@ -36715,7 +36726,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" "10k 0402"
+		(property "Characteristics" "1M 0402"
 			(at 105.41 175.26 0)
 			(effects
 				(font
@@ -36724,7 +36735,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN_ALT" "WR04X1002FTL"
+		(property "MPN_ALT" "RC0402FR-071ML"
 			(at 105.41 175.26 0)
 			(effects
 				(font
@@ -36733,7 +36744,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C471764"
+		(property "LCSC" "C138033"
 			(at 105.41 175.26 0)
 			(effects
 				(font
@@ -36906,7 +36917,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "61e5ff6f-2200-4eac-98ed-47adbac2a34a")
 		(property "Reference" "R52"
 			(at 168.275 180.34 90)
@@ -36916,7 +36927,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1M"
 			(at 166.37 180.34 90)
 			(effects
 				(font
@@ -36951,7 +36962,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0402FR-0710KL"
+		(property "MPN" "CR0402-FX-1004GLF"
 			(at 166.37 180.34 0)
 			(effects
 				(font
@@ -36960,7 +36971,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" "10k 0402"
+		(property "Characteristics" "1M 0402"
 			(at 166.37 180.34 0)
 			(effects
 				(font
@@ -36969,7 +36980,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN_ALT" "WR04X1002FTL"
+		(property "MPN_ALT" "RC0402FR-071ML"
 			(at 166.37 180.34 0)
 			(effects
 				(font
@@ -36978,7 +36989,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C471764"
+		(property "LCSC" "C138033"
 			(at 166.37 180.34 0)
 			(effects
 				(font
@@ -38996,7 +39007,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "613012243121"
+		(property "MPN" "PPTC062LJBN-RC"
 			(at 40.64 251.46 0)
 			(effects
 				(font
@@ -39253,7 +39264,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "613012243121"
+		(property "MPN" "PPTC062LJBN-RC"
 			(at 86.36 251.46 0)
 			(effects
 				(font
@@ -41667,7 +41678,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "87f0817b-be38-4e92-911c-08728ea4c81a")
 		(property "Reference" "R53"
 			(at 163.195 182.88 90)
@@ -41677,7 +41688,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1M"
 			(at 161.29 182.88 90)
 			(effects
 				(font
@@ -41712,7 +41723,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0402FR-0710KL"
+		(property "MPN" "CR0402-FX-1004GLF"
 			(at 161.29 182.88 0)
 			(effects
 				(font
@@ -41721,7 +41732,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" "10k 0402"
+		(property "Characteristics" "1M 0402"
 			(at 161.29 182.88 0)
 			(effects
 				(font
@@ -41730,7 +41741,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN_ALT" "WR04X1002FTL"
+		(property "MPN_ALT" "RC0402FR-071ML"
 			(at 161.29 182.88 0)
 			(effects
 				(font
@@ -41739,7 +41750,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C471764"
+		(property "LCSC" "C138033"
 			(at 161.29 182.88 0)
 			(effects
 				(font
@@ -42840,7 +42851,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "90aac20c-c59c-4071-be1b-fa3042e86813")
 		(property "Reference" "R45"
 			(at 113.665 180.34 90)
@@ -42850,7 +42861,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1M"
 			(at 115.57 180.34 90)
 			(effects
 				(font
@@ -42885,7 +42896,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0402FR-0710KL"
+		(property "MPN" "CR0402-FX-1004GLF"
 			(at 115.57 180.34 0)
 			(effects
 				(font
@@ -42894,7 +42905,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" "10k 0402"
+		(property "Characteristics" "1M 0402"
 			(at 115.57 180.34 0)
 			(effects
 				(font
@@ -42903,7 +42914,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN_ALT" "WR04X1002FTL"
+		(property "MPN_ALT" "RC0402FR-071ML"
 			(at 115.57 180.34 0)
 			(effects
 				(font
@@ -42912,7 +42923,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C471764"
+		(property "LCSC" "C138033"
 			(at 115.57 180.34 0)
 			(effects
 				(font
@@ -44939,7 +44950,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "a6d16b13-c44c-483e-be45-364c471c76e9")
 		(property "Reference" "R44"
 			(at 118.745 182.88 90)
@@ -44949,7 +44960,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1M"
 			(at 120.65 182.88 90)
 			(effects
 				(font
@@ -44984,7 +44995,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0402FR-0710KL"
+		(property "MPN" "CR0402-FX-1004GLF"
 			(at 120.65 182.88 0)
 			(effects
 				(font
@@ -44993,7 +45004,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" "10k 0402"
+		(property "Characteristics" "1M 0402"
 			(at 120.65 182.88 0)
 			(effects
 				(font
@@ -45002,7 +45013,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN_ALT" "WR04X1002FTL"
+		(property "MPN_ALT" "RC0402FR-071ML"
 			(at 120.65 182.88 0)
 			(effects
 				(font
@@ -45011,7 +45022,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C471764"
+		(property "LCSC" "C138033"
 			(at 120.65 182.88 0)
 			(effects
 				(font
@@ -46118,7 +46129,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "b6875756-0e30-493f-8808-8bb8c21e34c3")
 		(property "Reference" "R54"
 			(at 158.115 185.42 90)
@@ -46128,7 +46139,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1M"
 			(at 156.21 185.42 90)
 			(effects
 				(font
@@ -46163,7 +46174,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0402FR-0710KL"
+		(property "MPN" "CR0402-FX-1004GLF"
 			(at 156.21 185.42 0)
 			(effects
 				(font
@@ -46172,7 +46183,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" "10k 0402"
+		(property "Characteristics" "1M 0402"
 			(at 156.21 185.42 0)
 			(effects
 				(font
@@ -46181,7 +46192,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN_ALT" "WR04X1002FTL"
+		(property "MPN_ALT" "RC0402FR-071ML"
 			(at 156.21 185.42 0)
 			(effects
 				(font
@@ -46190,7 +46201,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C471764"
+		(property "LCSC" "C138033"
 			(at 156.21 185.42 0)
 			(effects
 				(font
@@ -46371,7 +46382,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "613012243121"
+		(property "MPN" "PPTC062LJBN-RC"
 			(at 228.6 251.46 0)
 			(effects
 				(font
@@ -50297,7 +50308,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "e689b003-2d61-4c7f-8702-32b6d7d5528f")
 		(property "Reference" "R42"
 			(at 127.635 187.96 90)
@@ -50307,7 +50318,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1M"
 			(at 129.54 187.96 90)
 			(effects
 				(font
@@ -50342,7 +50353,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0402FR-0710KL"
+		(property "MPN" "CR0402-FX-1004GLF"
 			(at 129.54 187.96 0)
 			(effects
 				(font
@@ -50351,7 +50362,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" "10k 0402"
+		(property "Characteristics" "1M 0402"
 			(at 129.54 187.96 0)
 			(effects
 				(font
@@ -50360,7 +50371,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN_ALT" "WR04X1002FTL"
+		(property "MPN_ALT" "RC0402FR-071ML"
 			(at 129.54 187.96 0)
 			(effects
 				(font
@@ -50369,7 +50380,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C471764"
+		(property "LCSC" "C138033"
 			(at 129.54 187.96 0)
 			(effects
 				(font
@@ -50652,7 +50663,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "e96d1137-7ae5-42d6-a073-dee063ceed51")
 		(property "Reference" "R51"
 			(at 173.355 177.8 90)
@@ -50662,7 +50673,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1M"
 			(at 171.45 177.8 90)
 			(effects
 				(font
@@ -50697,7 +50708,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0402FR-0710KL"
+		(property "MPN" "CR0402-FX-1004GLF"
 			(at 171.45 177.8 0)
 			(effects
 				(font
@@ -50706,7 +50717,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" "10k 0402"
+		(property "Characteristics" "1M 0402"
 			(at 171.45 177.8 0)
 			(effects
 				(font
@@ -50715,7 +50726,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN_ALT" "WR04X1002FTL"
+		(property "MPN_ALT" "RC0402FR-071ML"
 			(at 171.45 177.8 0)
 			(effects
 				(font
@@ -50724,7 +50735,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C471764"
+		(property "LCSC" "C138033"
 			(at 171.45 177.8 0)
 			(effects
 				(font
@@ -51088,7 +51099,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "ecc4d875-0520-4cc4-9301-90d5d469ae1a")
 		(property "Reference" "R46"
 			(at 108.585 177.8 90)
@@ -51098,7 +51109,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1M"
 			(at 110.49 177.8 90)
 			(effects
 				(font
@@ -51133,7 +51144,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0402FR-0710KL"
+		(property "MPN" "CR0402-FX-1004GLF"
 			(at 110.49 177.8 0)
 			(effects
 				(font
@@ -51142,7 +51153,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" "10k 0402"
+		(property "Characteristics" "1M 0402"
 			(at 110.49 177.8 0)
 			(effects
 				(font
@@ -51151,7 +51162,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN_ALT" "WR04X1002FTL"
+		(property "MPN_ALT" "RC0402FR-071ML"
 			(at 110.49 177.8 0)
 			(effects
 				(font
@@ -51160,7 +51171,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C471764"
+		(property "LCSC" "C138033"
 			(at 110.49 177.8 0)
 			(effects
 				(font
