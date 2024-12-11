@@ -6,8 +6,8 @@
 	(paper "A3")
 	(title_block
 		(title "Tiny Tapeout 06+ Demo Board")
-		(date "2024-08-30")
-		(rev "2.0.1")
+		(date "2024-12-10")
+		(rev "2.1.0")
 		(company "Psychogenic Technologies")
 		(comment 1 "(C) 2024 Pat Deegan")
 	)
