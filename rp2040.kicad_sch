@@ -5965,7 +5965,6 @@
 	)
 	(label "QSPI_SS"
 		(at 35.56 71.12 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5976,7 +5975,6 @@
 	)
 	(label "QSPI_SD2"
 		(at 85.09 182.88 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5987,7 +5985,6 @@
 	)
 	(label "QSPI_SD1"
 		(at 97.79 177.8 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5998,7 +5995,6 @@
 	)
 	(label "RUN"
 		(at 30.48 55.88 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6009,7 +6005,6 @@
 	)
 	(label "RUN"
 		(at 76.2 53.34 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6020,7 +6015,6 @@
 	)
 	(label "DVDD"
 		(at 106.68 33.02 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6031,7 +6025,6 @@
 	)
 	(label "DVDD"
 		(at 149.86 165.1 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6042,7 +6035,6 @@
 	)
 	(label "IOVDD"
 		(at 73.66 38.1 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6053,7 +6045,6 @@
 	)
 	(label "QSPI_CLK"
 		(at 27.94 182.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6064,7 +6055,6 @@
 	)
 	(label "IOVDD"
 		(at 119.38 33.02 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6075,7 +6065,6 @@
 	)
 	(label "QSPI_SD1"
 		(at 73.66 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6086,7 +6075,6 @@
 	)
 	(label "QSPI_SD0"
 		(at 73.66 76.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6097,7 +6085,6 @@
 	)
 	(label "IOVDD"
 		(at 38.1 22.86 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6108,7 +6095,6 @@
 	)
 	(label "QSPI_SD0"
 		(at 97.79 175.26 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6119,7 +6105,6 @@
 	)
 	(label "QSPI_SD3"
 		(at 73.66 83.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6130,7 +6115,6 @@
 	)
 	(label "QSPI_SD2"
 		(at 73.66 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6141,7 +6125,6 @@
 	)
 	(label "IOVDD"
 		(at 106.68 157.48 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6152,7 +6135,6 @@
 	)
 	(label "QSPI_SS"
 		(at 43.18 30.48 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6163,7 +6145,6 @@
 	)
 	(label "QSPI_SD1"
 		(at 35.56 78.74 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6174,7 +6155,6 @@
 	)
 	(label "QSPI_CLK"
 		(at 73.66 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6185,7 +6165,6 @@
 	)
 	(label "QSPI_SD0"
 		(at 35.56 76.2 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6196,7 +6175,6 @@
 	)
 	(label "IOVDD"
 		(at 71.12 154.94 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6207,7 +6185,6 @@
 	)
 	(label "QSPI_SS"
 		(at 27.94 177.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6218,7 +6195,6 @@
 	)
 	(label "QSPI_SS"
 		(at 73.66 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6229,7 +6205,6 @@
 	)
 	(label "IOVDD"
 		(at 111.76 33.02 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6240,7 +6215,6 @@
 	)
 	(label "IOVDD"
 		(at 25.4 157.48 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6251,7 +6225,6 @@
 	)
 	(label "QSPI_CLK"
 		(at 35.56 73.66 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6262,7 +6235,6 @@
 	)
 	(label "IOVDD"
 		(at 50.8 154.94 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6273,7 +6245,6 @@
 	)
 	(label "QSPI_SD3"
 		(at 85.09 185.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6285,7 +6256,6 @@
 	(hierarchical_label "GPIO26{slash}AD0"
 		(shape bidirectional)
 		(at 137.16 121.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6297,7 +6267,6 @@
 	(hierarchical_label "GPIO0"
 		(shape bidirectional)
 		(at 137.16 53.34 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6309,7 +6278,6 @@
 	(hierarchical_label "GPIO4"
 		(shape bidirectional)
 		(at 137.16 63.5 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6321,7 +6289,6 @@
 	(hierarchical_label "GPIO25"
 		(shape bidirectional)
 		(at 137.16 116.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6333,7 +6300,6 @@
 	(hierarchical_label "BOOT_MODE"
 		(shape input)
 		(at 33.02 30.48 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6345,7 +6311,6 @@
 	(hierarchical_label "GPIO15"
 		(shape bidirectional)
 		(at 137.16 91.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6357,7 +6322,6 @@
 	(hierarchical_label "ADC_AVDD"
 		(shape passive)
 		(at 116.84 40.64 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6369,7 +6333,6 @@
 	(hierarchical_label "GPIO10"
 		(shape bidirectional)
 		(at 137.16 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6381,7 +6344,6 @@
 	(hierarchical_label "GPIO13"
 		(shape bidirectional)
 		(at 137.16 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6393,7 +6355,6 @@
 	(hierarchical_label "GPIO14"
 		(shape bidirectional)
 		(at 137.16 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6405,7 +6366,6 @@
 	(hierarchical_label "GPIO18"
 		(shape bidirectional)
 		(at 137.16 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6417,7 +6377,6 @@
 	(hierarchical_label "GPIO24"
 		(shape bidirectional)
 		(at 137.16 114.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6429,7 +6388,6 @@
 	(hierarchical_label "SWDIO"
 		(shape bidirectional)
 		(at 81.28 121.92 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6441,7 +6399,6 @@
 	(hierarchical_label "USB_D+"
 		(shape bidirectional)
 		(at 81.28 60.96 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6453,7 +6410,6 @@
 	(hierarchical_label "GPIO16"
 		(shape bidirectional)
 		(at 137.16 93.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6465,7 +6421,6 @@
 	(hierarchical_label "SWCLK"
 		(shape input)
 		(at 81.28 119.38 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6477,7 +6432,6 @@
 	(hierarchical_label "GPIO27{slash}AD1"
 		(shape bidirectional)
 		(at 137.16 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6489,7 +6443,6 @@
 	(hierarchical_label "GPIO5"
 		(shape bidirectional)
 		(at 137.16 66.04 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6501,7 +6454,6 @@
 	(hierarchical_label "GPIO28{slash}AD2"
 		(shape bidirectional)
 		(at 137.16 127 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6513,7 +6465,6 @@
 	(hierarchical_label "USB_D-"
 		(shape bidirectional)
 		(at 81.28 63.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6525,7 +6476,6 @@
 	(hierarchical_label "USB_VDD"
 		(shape passive)
 		(at 114.3 40.64 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6537,7 +6487,6 @@
 	(hierarchical_label "GPIO6"
 		(shape bidirectional)
 		(at 137.16 68.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6549,7 +6498,6 @@
 	(hierarchical_label "GPIO22"
 		(shape bidirectional)
 		(at 137.16 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6561,7 +6509,6 @@
 	(hierarchical_label "GPIO2"
 		(shape bidirectional)
 		(at 137.16 58.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6573,7 +6520,6 @@
 	(hierarchical_label "GPIO21"
 		(shape bidirectional)
 		(at 137.16 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6585,7 +6531,6 @@
 	(hierarchical_label "GPIO29{slash}AD3"
 		(shape bidirectional)
 		(at 137.16 129.54 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6597,7 +6542,6 @@
 	(hierarchical_label "GPIO20"
 		(shape bidirectional)
 		(at 137.16 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6609,7 +6553,6 @@
 	(hierarchical_label "GPIO19"
 		(shape bidirectional)
 		(at 137.16 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6621,7 +6564,6 @@
 	(hierarchical_label "IOVDD"
 		(shape passive)
 		(at 30.48 22.86 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6633,7 +6575,6 @@
 	(hierarchical_label "GPIO23"
 		(shape bidirectional)
 		(at 137.16 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6645,7 +6586,6 @@
 	(hierarchical_label "GPIO8"
 		(shape bidirectional)
 		(at 137.16 73.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6657,7 +6597,6 @@
 	(hierarchical_label "GPIO17"
 		(shape bidirectional)
 		(at 137.16 96.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6669,7 +6608,6 @@
 	(hierarchical_label "RUN"
 		(shape input)
 		(at 71.12 53.34 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6681,7 +6619,6 @@
 	(hierarchical_label "GPIO11"
 		(shape bidirectional)
 		(at 137.16 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6693,7 +6630,6 @@
 	(hierarchical_label "GPIO9"
 		(shape bidirectional)
 		(at 137.16 76.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6705,7 +6641,6 @@
 	(hierarchical_label "GPIO1"
 		(shape bidirectional)
 		(at 137.16 55.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6717,7 +6652,6 @@
 	(hierarchical_label "GPIO7"
 		(shape bidirectional)
 		(at 137.16 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6729,7 +6663,6 @@
 	(hierarchical_label "GPIO12"
 		(shape bidirectional)
 		(at 137.16 83.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6741,7 +6674,6 @@
 	(hierarchical_label "GPIO3"
 		(shape bidirectional)
 		(at 137.16 60.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
