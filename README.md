@@ -2,7 +2,7 @@
 
 Demo board for TinyTapeout 4 and beyond.
 
-![Demoboard PCB](https://raw.githubusercontent.com/TinyTapeout/tt-demo-pcb/main/doc/img/tt07-demoboard-render.jpg)
+![Demoboard PCB](doc/img/tt07-demoboard-render.jpg)
 
 These demonstration PCBs, in use since TT04, allow you to interact with [TinyTapeout](https://tinytapeout.com/) projects in 3 ways:
 
