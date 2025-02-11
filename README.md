@@ -29,7 +29,7 @@ In addition, since TT06, it is possible to create analog and mixed signal design
 
 The full schematic is available as a [PDF](doc/demoboard-v2-1-2.pdf) but the gist of it is:
 
-![Demoboard schematic](doc/img/tt4-schematic-preview.jpg)
+![Demoboard schematic](doc/img/tt08-schematic-preview.jpg)
 
 The RP2040 is responsible for selecting projects, using the [multiplexer](docs/INFO.md) and under most circumstances providing the clock for the projects. It may, thereafter, interact with the design via it's connections to the input, output and bidirectional pins.
 
