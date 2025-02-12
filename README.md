@@ -23,6 +23,9 @@ In addition, since TT06, it is possible to create analog and mixed signal design
 ![Demoboard Pinout](doc/img/tt08-demoboard-pinout.jpg)
 
 
+### Previous Demoboard Versions
+
+The details above are for the latest version of the demoboard.  To access leaflets and schematics for prior versions, see [here, in the historic documentation](doc/historic/README.md)
 
 ## Schematic and Function
 
@@ -31,14 +34,11 @@ The full schematic is available as a [PDF](doc/demoboard-v2-1-2.pdf) but the gis
 
 ![Demoboard schematic](doc/img/tt08-schematic-preview.jpg)
 
-The RP2040 is responsible for selecting projects, using the [multiplexer](docs/INFO.md) and under most circumstances providing the clock for the projects. It may, thereafter, interact with the design via it's connections to the input, output and bidirectional pins.
+The RP2040 is responsible for selecting projects, by controlling the project MUX that's on the ASIC and, under most circumstances, providing the clock for the projects. It may, thereafter, interact with the design via it's connections to the input, output and bidirectional pins.
 
 Another option is to use the various PMOD and pin headers to tie external circuitry to the design.  PMODs are provided in two varieties: straightforward I/O (where one PMOD is dedicated to each of in/out/bidir pins) and "standard" PMODs, that are mapped (mostly) according to specs to allow for SPI, I2C and UART extension boards to be plugged in (this assumes the project has been designed with this in mind, with I/O tasked accordingly). 
 
 
-### Previous Demoboard Versions
-
-The details above are for the latest version of the demoboard.  To access leaflets and schematics for prior versions, see [here, in the historic documentation](doc/historic/README.md)
 
 ## PMODs
 
@@ -89,14 +89,18 @@ Both sets of PMODs respect the digilent specification in terms of spacing, and a
 
 \* These pins are multiplexed. They are connected to the RP2040 when GPIO1 is high.
 
-## Removing the carrier board
+## Removing the ASIC breakout board
 
-Be careful removing the carrier board, it's easy to bend the pins or hurt yourself.
+Be careful removing the breakout board, it's easy to bend the pins or hurt yourself.
 
-* Lever the carrier board up 1mm at a time by inserting a pen or other lever under the board and gently pressing,
-* Keep swapping sides, to evenly push the carrier board away from the demo baord.
+* Lever the breakout board up 1mm at a time by inserting a pen or other lever under the board and gently pressing,
+* Keep swapping sides, to evenly push the carrier board away from the demo board.
+
 
 These [levers](pcb_extractor.stl) can be 3D printed and make it easier. This [video](https://discord.com/channels/1009193568256135208/1011201396659474432/1260876742730448907) shows them in use.
+
+
+There are arrows indicating areas that are relatively component-free to assist with placing the levers.
 
 ## License
 
