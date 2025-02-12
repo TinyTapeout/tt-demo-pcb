@@ -17,15 +17,15 @@ In addition, since TT06, it is possible to create analog and mixed signal design
 
 ![Breakout Board Analog IO](doc/img/tt07-analogio.jpg)
 
+
 ## Pinout Overview
-
-
 
 ![Demoboard Pinout](doc/img/tt08-demoboard-pinout.jpg)
 
 
 
 ## Schematic and Function
+
 
 The full schematic is available as a [PDF](doc/demoboard-v2-1-2.pdf) but the gist of it is:
 
@@ -34,6 +34,11 @@ The full schematic is available as a [PDF](doc/demoboard-v2-1-2.pdf) but the gis
 The RP2040 is responsible for selecting projects, using the [multiplexer](docs/INFO.md) and under most circumstances providing the clock for the projects. It may, thereafter, interact with the design via it's connections to the input, output and bidirectional pins.
 
 Another option is to use the various PMOD and pin headers to tie external circuitry to the design.  PMODs are provided in two varieties: straightforward I/O (where one PMOD is dedicated to each of in/out/bidir pins) and "standard" PMODs, that are mapped (mostly) according to specs to allow for SPI, I2C and UART extension boards to be plugged in (this assumes the project has been designed with this in mind, with I/O tasked accordingly). 
+
+
+### Previous Demoboard Versions
+
+The details above are for the latest version of the demoboard.  To access leaflets and schematics for prior versions, see [here, in the historic documentation](doc/historic/README.md)
 
 ## PMODs
 
