@@ -830,6 +830,9 @@
       "/mng[0..7]": [
         "Managemnt"
       ],
+      "/project_clk": [
+        "HighSpeed"
+      ],
       "/ui_in4": [
         "IOIn"
       ],
@@ -962,6 +965,9 @@
       "ctrl_sel_inc": [
         "Managemnt"
       ],
+      "ext_project_clk": [
+        "HighSpeed"
+      ],
       "project_clk": [
         "HighSpeed"
       ],
@@ -1039,6 +1045,10 @@
       {
         "netclass": "Power",
         "pattern": "/RP2350/VREG*"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "/IREF"
       }
     ]
   },
@@ -1617,6 +1627,30 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Name",
+          "name": "Sim.Name",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Library",
+          "name": "Sim.Library",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
         }
       ],
       "filter_string": "",

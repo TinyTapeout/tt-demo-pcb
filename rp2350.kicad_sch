@@ -6,7 +6,7 @@
 	(paper "User" 215 200)
 	(title_block
 		(title "RP2350B (QFN80) and Support")
-		(date "2025-09-10")
+		(date "2026-06-23")
 		(rev "1.0")
 		(company "Psychogenic Technologies INC")
 		(comment 1 "(C) 2025 Pat Deegan")
@@ -31087,7 +31087,7 @@
 			(uuid "ae15412a-b2bf-4b99-8c84-059094e3394b")
 		)
 		(instances
-			(project ""
+			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
 					(reference "U3")
 					(unit 4)
@@ -31763,7 +31763,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
 					(reference "LAYOUT2")
 					(unit 1)
@@ -34743,7 +34743,7 @@
 			(uuid "ae15412a-b2bf-4b99-8c84-059094e3394c")
 		)
 		(instances
-			(project ""
+			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
 					(reference "U3")
 					(unit 3)
@@ -35136,7 +35136,7 @@
 			(uuid "ae15412a-b2bf-4b99-8c84-059094e3394d")
 		)
 		(instances
-			(project ""
+			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
 					(reference "U3")
 					(unit 5)
@@ -36549,7 +36549,7 @@
 			(uuid "ae15412a-b2bf-4b99-8c84-059094e3394e")
 		)
 		(instances
-			(project ""
+			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
 					(reference "U3")
 					(unit 2)
@@ -37271,7 +37271,7 @@
 			(uuid "ae15412a-b2bf-4b99-8c84-059094e3394f")
 		)
 		(instances
-			(project ""
+			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
 					(reference "U3")
 					(unit 1)
@@ -37680,7 +37680,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
 					(reference "LAYOUT1")
 					(unit 1)
@@ -37978,7 +37978,7 @@
 			(uuid "05a0838d-b636-4274-b70b-da766887ccbb")
 		)
 		(instances
-			(project ""
+			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
 					(reference "R58")
 					(unit 1)
