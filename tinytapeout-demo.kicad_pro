@@ -911,6 +911,9 @@
       "Net-(JP8-B)": [
         "IOOutput"
       ],
+      "Net-(JP9-B)": [
+        "IOOutput"
+      ],
       "Net-(U1-A)": [
         "IOOutput"
       ],
@@ -957,6 +960,30 @@
         "IOOutput"
       ],
       "Net-(U2-G)": [
+        "IOOutput"
+      ],
+      "Net-(U4-A)": [
+        "IOOutput"
+      ],
+      "Net-(U4-B)": [
+        "IOOutput"
+      ],
+      "Net-(U4-C)": [
+        "IOOutput"
+      ],
+      "Net-(U4-D)": [
+        "IOOutput"
+      ],
+      "Net-(U4-DP)": [
+        "IOOutput"
+      ],
+      "Net-(U4-E)": [
+        "IOOutput"
+      ],
+      "Net-(U4-F)": [
+        "IOOutput"
+      ],
+      "Net-(U4-G)": [
         "IOOutput"
       ],
       "ctrl_ena": [

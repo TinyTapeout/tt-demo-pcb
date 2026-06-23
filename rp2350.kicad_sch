@@ -30712,7 +30712,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "029c21e7-2560-42be-b1f6-b3104d02ee61")
-		(property "Reference" "U3"
+		(property "Reference" "U6"
 			(at 135.89 97.5825 0)
 			(effects
 				(font
@@ -31089,7 +31089,7 @@
 		(instances
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "U3")
+					(reference "U6")
 					(unit 4)
 				)
 			)
@@ -31104,7 +31104,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0de5bf75-bcc1-41d7-8b82-0b979eb6ea2c")
-		(property "Reference" "R57"
+		(property "Reference" "R43"
 			(at 76.708 54.356 90)
 			(effects
 				(font
@@ -31230,7 +31230,7 @@
 		(instances
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "R57")
+					(reference "R43")
 					(unit 1)
 				)
 			)
@@ -31417,7 +31417,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "1133a309-4f78-48fd-88bf-7db813cad192")
-		(property "Reference" "J15"
+		(property "Reference" "J17"
 			(at 17.78 52.8899 0)
 			(effects
 				(font
@@ -31542,7 +31542,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "J15")
+					(reference "J17")
 					(unit 1)
 				)
 			)
@@ -31557,7 +31557,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1d24ce2e-20d5-4e69-ac07-4d4b5f9be82e")
-		(property "Reference" "#PWR088"
+		(property "Reference" "#PWR0109"
 			(at 31.75 58.42 0)
 			(effects
 				(font
@@ -31614,7 +31614,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "#PWR088")
+					(reference "#PWR0109")
 					(unit 1)
 				)
 			)
@@ -31780,7 +31780,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2988ccb6-a00c-452b-8981-c494136537eb")
-		(property "Reference" "#PWR086"
+		(property "Reference" "#PWR0107"
 			(at 107.95 50.8 0)
 			(effects
 				(font
@@ -31836,7 +31836,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "#PWR086")
+					(reference "#PWR0107")
 					(unit 1)
 				)
 			)
@@ -31851,7 +31851,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2c5428b8-1589-4bc1-97e0-40ce4f5a62ac")
-		(property "Reference" "C39"
+		(property "Reference" "C43"
 			(at 82.55 118.618 0)
 			(effects
 				(font
@@ -31983,7 +31983,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "C39")
+					(reference "C43")
 					(unit 1)
 				)
 			)
@@ -31998,7 +31998,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2e236cf1-6363-475f-9b4e-64846404e2f4")
-		(property "Reference" "#PWR085"
+		(property "Reference" "#PWR0106"
 			(at 80.01 50.8 0)
 			(effects
 				(font
@@ -32054,7 +32054,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "#PWR085")
+					(reference "#PWR0106")
 					(unit 1)
 				)
 			)
@@ -32069,7 +32069,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "31953ad7-8410-44f7-801b-6993440ff7f1")
-		(property "Reference" "#PWR087"
+		(property "Reference" "#PWR0108"
 			(at 104.14 62.23 0)
 			(effects
 				(font
@@ -32125,7 +32125,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "#PWR087")
+					(reference "#PWR0108")
 					(unit 1)
 				)
 			)
@@ -32141,7 +32141,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "325f5447-a087-4029-8a21-318639dd1b9b")
-		(property "Reference" "R59"
+		(property "Reference" "R45"
 			(at 54.61 139.7465 90)
 			(effects
 				(font
@@ -32271,7 +32271,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "R59")
+					(reference "R45")
 					(unit 1)
 				)
 			)
@@ -32287,7 +32287,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "326980a8-1512-428f-b55e-515edb8fdbf9")
-		(property "Reference" "#PWR096"
+		(property "Reference" "#PWR0117"
 			(at 33.02 138.43 0)
 			(effects
 				(font
@@ -32343,7 +32343,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "#PWR096")
+					(reference "#PWR0117")
 					(unit 1)
 				)
 			)
@@ -32358,7 +32358,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "350c85ee-7690-42dc-a147-507f7084bdc7")
-		(property "Reference" "C37"
+		(property "Reference" "C41"
 			(at 67.31 118.618 0)
 			(effects
 				(font
@@ -32490,7 +32490,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "C37")
+					(reference "C41")
 					(unit 1)
 				)
 			)
@@ -32506,7 +32506,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3ed1e026-70bb-4c11-89dd-c17930fea344")
-		(property "Reference" "#PWR092"
+		(property "Reference" "#PWR0113"
 			(at 17.78 100.33 0)
 			(effects
 				(font
@@ -32562,7 +32562,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "#PWR092")
+					(reference "#PWR0113")
 					(unit 1)
 				)
 			)
@@ -32578,7 +32578,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3fcc0ae8-ef29-4c3d-b4ba-bc23b70a3886")
-		(property "Reference" "#PWR095"
+		(property "Reference" "#PWR0116"
 			(at 93.98 133.35 0)
 			(effects
 				(font
@@ -32635,7 +32635,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "#PWR095")
+					(reference "#PWR0116")
 					(unit 1)
 				)
 			)
@@ -32650,7 +32650,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4213140a-5802-4f43-8a10-256aaccfee97")
-		(property "Reference" "#PWR089"
+		(property "Reference" "#PWR0110"
 			(at 139.7 67.31 0)
 			(effects
 				(font
@@ -32706,7 +32706,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "#PWR089")
+					(reference "#PWR0110")
 					(unit 1)
 				)
 			)
@@ -32722,7 +32722,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "47915121-256f-4713-98ad-226e66ea814f")
-		(property "Reference" "C27"
+		(property "Reference" "C31"
 			(at 142.621 53.3978 0)
 			(effects
 				(font
@@ -32854,7 +32854,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "C27")
+					(reference "C31")
 					(unit 1)
 				)
 			)
@@ -32870,7 +32870,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "48cd2b51-eff9-4b3a-aa24-90d4ec1cc5b1")
-		(property "Reference" "#PWR090"
+		(property "Reference" "#PWR0111"
 			(at 129.54 87.63 0)
 			(effects
 				(font
@@ -32926,7 +32926,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "#PWR090")
+					(reference "#PWR0111")
 					(unit 1)
 				)
 			)
@@ -32941,7 +32941,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "48e431cc-5c3d-4873-b8ac-5da5b56520c0")
-		(property "Reference" "C35"
+		(property "Reference" "C39"
 			(at 94.996 103.378 0)
 			(effects
 				(font
@@ -33073,7 +33073,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "C35")
+					(reference "C39")
 					(unit 1)
 				)
 			)
@@ -33089,7 +33089,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4b21c04b-2dd4-4188-bbfb-70f368084042")
-		(property "Reference" "#PWR094"
+		(property "Reference" "#PWR0115"
 			(at 106.68 120.65 0)
 			(effects
 				(font
@@ -33146,7 +33146,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "#PWR094")
+					(reference "#PWR0115")
 					(unit 1)
 				)
 			)
@@ -33162,7 +33162,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4c464e6b-44b3-4799-a423-721fea193994")
-		(property "Reference" "R56"
+		(property "Reference" "R42"
 			(at 107.315 53.34 90)
 			(effects
 				(font
@@ -33286,7 +33286,7 @@
 		(instances
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "R56")
+					(reference "R42")
 					(unit 1)
 				)
 			)
@@ -33302,7 +33302,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "515c161c-95c9-4235-a8a4-156cd845ade0")
-		(property "Reference" "C43"
+		(property "Reference" "C47"
 			(at 47.879 167.6978 0)
 			(effects
 				(font
@@ -33450,7 +33450,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "C43")
+					(reference "C47")
 					(unit 1)
 				)
 			)
@@ -33466,7 +33466,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "558c1390-43d2-45d6-a849-66f89586b497")
-		(property "Reference" "#PWR097"
+		(property "Reference" "#PWR0118"
 			(at 48.26 146.05 0)
 			(effects
 				(font
@@ -33522,7 +33522,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "#PWR097")
+					(reference "#PWR0118")
 					(unit 1)
 				)
 			)
@@ -33538,7 +33538,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "587273e2-a957-4148-bed0-967ba2d03103")
-		(property "Reference" "C42"
+		(property "Reference" "C46"
 			(at 37.719 152.4578 0)
 			(effects
 				(font
@@ -33686,7 +33686,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "C42")
+					(reference "C46")
 					(unit 1)
 				)
 			)
@@ -33701,7 +33701,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5d4fb881-6362-45b8-a6bc-396a580802dd")
-		(property "Reference" "C32"
+		(property "Reference" "C36"
 			(at 72.136 103.378 0)
 			(effects
 				(font
@@ -33833,7 +33833,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "C32")
+					(reference "C36")
 					(unit 1)
 				)
 			)
@@ -33849,7 +33849,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6037237a-0ce6-4229-af8f-8d40126fd146")
-		(property "Reference" "C41"
+		(property "Reference" "C45"
 			(at 66.421 149.9178 0)
 			(effects
 				(font
@@ -33981,7 +33981,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "C41")
+					(reference "C45")
 					(unit 1)
 				)
 			)
@@ -34149,7 +34149,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "64e01981-57dd-4aff-b32d-9bff5d476705")
-		(property "Reference" "#PWR091"
+		(property "Reference" "#PWR0112"
 			(at 71.12 97.79 0)
 			(effects
 				(font
@@ -34205,7 +34205,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "#PWR091")
+					(reference "#PWR0112")
 					(unit 1)
 				)
 			)
@@ -34220,7 +34220,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "664c940a-dec7-4ad4-82f9-f2db5ffc9390")
-		(property "Reference" "C38"
+		(property "Reference" "C42"
 			(at 74.93 118.618 0)
 			(effects
 				(font
@@ -34352,7 +34352,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "C38")
+					(reference "C42")
 					(unit 1)
 				)
 			)
@@ -34368,7 +34368,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "668f479e-be71-4981-bd05-d454350b7ca8")
-		(property "Reference" "U3"
+		(property "Reference" "U6"
 			(at 55.88 36.6225 0)
 			(effects
 				(font
@@ -34745,7 +34745,7 @@
 		(instances
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "U3")
+					(reference "U6")
 					(unit 3)
 				)
 			)
@@ -34761,7 +34761,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6c5334d3-230c-4160-950b-a40076e0a121")
-		(property "Reference" "U3"
+		(property "Reference" "U6"
 			(at 177.8 101.3925 0)
 			(effects
 				(font
@@ -35138,7 +35138,7 @@
 		(instances
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "U3")
+					(reference "U6")
 					(unit 5)
 				)
 			)
@@ -35153,7 +35153,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "79fd97fd-1f40-4d4b-94ba-eacd8ee389e4")
-		(property "Reference" "C33"
+		(property "Reference" "C37"
 			(at 79.756 103.378 0)
 			(effects
 				(font
@@ -35285,7 +35285,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "C33")
+					(reference "C37")
 					(unit 1)
 				)
 			)
@@ -35301,7 +35301,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9227cc82-0bf8-41a8-ac50-f6427dac5797")
-		(property "Reference" "#PWR084"
+		(property "Reference" "#PWR0105"
 			(at 129.54 53.34 0)
 			(effects
 				(font
@@ -35357,7 +35357,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "#PWR084")
+					(reference "#PWR0105")
 					(unit 1)
 				)
 			)
@@ -35372,7 +35372,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "99731848-e3e5-4f60-b12b-b1a258c40740")
-		(property "Reference" "R55"
+		(property "Reference" "R41"
 			(at 26.162 52.324 90)
 			(effects
 				(font
@@ -35502,7 +35502,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "R55")
+					(reference "R41")
 					(unit 1)
 				)
 			)
@@ -35517,7 +35517,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9c4497f3-123b-4eea-b665-0cfa2efe896e")
-		(property "Reference" "C30"
+		(property "Reference" "C34"
 			(at 22.352 103.378 0)
 			(effects
 				(font
@@ -35649,7 +35649,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "C30")
+					(reference "C34")
 					(unit 1)
 				)
 			)
@@ -35812,7 +35812,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a36c7abf-a4ab-438c-9270-4921b5b98d05")
-		(property "Reference" "#PWR098"
+		(property "Reference" "#PWR0119"
 			(at 63.5 162.56 0)
 			(effects
 				(font
@@ -35868,7 +35868,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "#PWR098")
+					(reference "#PWR0119")
 					(unit 1)
 				)
 			)
@@ -35883,7 +35883,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a5b7b569-dde2-4e36-bbb8-bef919fafb1e")
-		(property "Reference" "#PWR0100"
+		(property "Reference" "#PWR0121"
 			(at 40.64 181.61 0)
 			(effects
 				(font
@@ -35939,7 +35939,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "#PWR0100")
+					(reference "#PWR0121")
 					(unit 1)
 				)
 			)
@@ -35954,7 +35954,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a99d3405-15c9-40f6-a3a8-6f785a5cc7e8")
-		(property "Reference" "C34"
+		(property "Reference" "C38"
 			(at 87.376 103.378 0)
 			(effects
 				(font
@@ -36086,7 +36086,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "C34")
+					(reference "C38")
 					(unit 1)
 				)
 			)
@@ -36101,7 +36101,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ae37f279-b621-4ef6-bd6b-b14ed775c763")
-		(property "Reference" "#PWR093"
+		(property "Reference" "#PWR0114"
 			(at 17.78 118.11 0)
 			(effects
 				(font
@@ -36157,7 +36157,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "#PWR093")
+					(reference "#PWR0114")
 					(unit 1)
 				)
 			)
@@ -36172,7 +36172,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ae806baa-f012-46d7-ad55-a53ce95d30f5")
-		(property "Reference" "U3"
+		(property "Reference" "U6"
 			(at 73.66 153.67 0)
 			(effects
 				(font
@@ -36551,7 +36551,7 @@
 		(instances
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "U3")
+					(reference "U6")
 					(unit 2)
 				)
 			)
@@ -36567,7 +36567,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b5210d43-16ba-4fac-b0ef-6c789b3c5bb4")
-		(property "Reference" "C26"
+		(property "Reference" "C30"
 			(at 99.06 40.64 90)
 			(effects
 				(font
@@ -36733,7 +36733,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "C26")
+					(reference "C30")
 					(unit 1)
 				)
 			)
@@ -36748,7 +36748,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b62dfa03-5e6a-4748-81b2-e34fd7a669eb")
-		(property "Reference" "C31"
+		(property "Reference" "C35"
 			(at 28.194 103.632 0)
 			(effects
 				(font
@@ -36880,7 +36880,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "C31")
+					(reference "C35")
 					(unit 1)
 				)
 			)
@@ -36896,7 +36896,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c3acbfae-0fd7-49b4-86a2-a0234d25f1c0")
-		(property "Reference" "U3"
+		(property "Reference" "U6"
 			(at 46.99 95.0425 0)
 			(effects
 				(font
@@ -37273,7 +37273,7 @@
 		(instances
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "U3")
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -37288,7 +37288,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c6dc3260-e70b-4681-b966-5e9723614e53")
-		(property "Reference" "U4"
+		(property "Reference" "U7"
 			(at 121.92 54.864 0)
 			(effects
 				(font
@@ -37454,7 +37454,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "U4")
+					(reference "U7")
 					(unit 1)
 				)
 			)
@@ -37469,7 +37469,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c70eba7b-5eac-4dc6-9589-e747aa943463")
-		(property "Reference" "C36"
+		(property "Reference" "C40"
 			(at 102.616 103.378 0)
 			(effects
 				(font
@@ -37601,7 +37601,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "C36")
+					(reference "C40")
 					(unit 1)
 				)
 			)
@@ -37697,7 +37697,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cd0fc325-4f2a-4cbc-ae0b-d8ad7f94cf85")
-		(property "Reference" "C40"
+		(property "Reference" "C44"
 			(at 90.17 118.618 0)
 			(effects
 				(font
@@ -37829,7 +37829,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "C40")
+					(reference "C44")
 					(unit 1)
 				)
 			)
@@ -37844,7 +37844,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cfe14ab3-efc7-4a12-808f-53b32035ea98")
-		(property "Reference" "R58"
+		(property "Reference" "R44"
 			(at 81.28 59.055 90)
 			(effects
 				(font
@@ -37980,7 +37980,7 @@
 		(instances
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "R58")
+					(reference "R44")
 					(unit 1)
 				)
 			)
@@ -37996,7 +37996,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dddd74f5-3561-459c-b13e-bdec72e61d70")
-		(property "Reference" "#PWR099"
+		(property "Reference" "#PWR0120"
 			(at 50.8 163.83 0)
 			(effects
 				(font
@@ -38052,7 +38052,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "#PWR099")
+					(reference "#PWR0120")
 					(unit 1)
 				)
 			)
@@ -38068,7 +38068,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e2040963-15ba-4fcb-a9ce-736180cd5a32")
-		(property "Reference" "C28"
+		(property "Reference" "C32"
 			(at 100.838 53.086 90)
 			(effects
 				(font
@@ -38234,7 +38234,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "C28")
+					(reference "C32")
 					(unit 1)
 				)
 			)
@@ -38249,7 +38249,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "edbaf61e-06d3-4646-b395-6130979c483d")
-		(property "Reference" "C29"
+		(property "Reference" "C33"
 			(at 17.018 103.632 0)
 			(effects
 				(font
@@ -38381,7 +38381,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "C29")
+					(reference "C33")
 					(unit 1)
 				)
 			)
@@ -38397,7 +38397,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fb8eba33-8374-4705-891c-5f4020cab1d3")
-		(property "Reference" "#PWR083"
+		(property "Reference" "#PWR0104"
 			(at 109.22 49.53 0)
 			(effects
 				(font
@@ -38453,7 +38453,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "#PWR083")
+					(reference "#PWR0104")
 					(unit 1)
 				)
 			)
@@ -38468,7 +38468,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fd0cc3c6-96b2-493a-acb8-e9c10c1b0feb")
-		(property "Reference" "R54"
+		(property "Reference" "R40"
 			(at 25.4 46.99 90)
 			(effects
 				(font
@@ -38598,7 +38598,7 @@
 			)
 			(project "tinytapeout-demo"
 				(path "/d2813c39-fee4-4398-9976-0e051602c65e/58455cf4-ffbe-41a9-8301-0f9e72b17a95"
-					(reference "R54")
+					(reference "R40")
 					(unit 1)
 				)
 			)
