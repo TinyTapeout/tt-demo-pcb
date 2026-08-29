@@ -1,10 +1,10 @@
-# TinyTapeout Demo Board
+# Tiny Tapeout Demo Board
 
-Demo board for TinyTapeout ASICs
+Demo board for Tiny Tapeout ASICs
 
 ![Demoboard PCB](doc/img/tt-etr-dbv3p2-render.png)
 
-These demonstration PCBs allow you to interact with [TinyTapeout](https://tinytapeout.com/) projects in 3 ways:
+These demonstration PCBs allow you to interact with [Tiny Tapeout](https://tinytapeout.com/) projects in 3 ways:
 
   * directly, using the input DIP switches and 7-segment display;
   * via breadboard or extension boards through PMODs; or
